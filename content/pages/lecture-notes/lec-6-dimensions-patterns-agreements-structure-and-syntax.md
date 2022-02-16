@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 6: Dimensions, Patterns, Agreements, Structure, and Syntax'
 uid: 611f0268-002f-d76a-b553-e5726f87b2cb

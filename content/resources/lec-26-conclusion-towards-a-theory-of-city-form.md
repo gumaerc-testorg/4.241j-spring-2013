@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 26: Conclusion: Towards a Theory of City Form'
 uid: bf7d53be-8b32-629e-0c3a-5dd08bc62284
 video_files:
   archive_url: http://www.archive.org/download/MIT4.241JS13/MIT4_241JS13_lec26_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/505aece6cf695cceaa4404af92a1e31a_M4VQypB3o90.vtt
+  video_captions_file: /courses/4-241j-theory-of-city-form-spring-2013/505aece6cf695cceaa4404af92a1e31a_M4VQypB3o90.vtt
   video_thumbnail_file: https://img.youtube.com/vi/M4VQypB3o90/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/ee549f692e03c2e5f6f6ae373b77f2ef_M4VQypB3o90.pdf
+  video_transcript_file: /courses/4-241j-theory-of-city-form-spring-2013/ee549f692e03c2e5f6f6ae373b77f2ef_M4VQypB3o90.pdf
 video_metadata:
   youtube_id: M4VQypB3o90
 ---

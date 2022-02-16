@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 4: Normative Theory III: The City as Organism'
 uid: 0af6664d-6a9f-c36b-95d5-90f56b6dc743
 video_files:
   archive_url: http://www.archive.org/download/MIT4.241JS13/MIT4_241JS13_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/388f04d48cf1599590ed5817d8460834_gMmamytjyXI.vtt
+  video_captions_file: /courses/4-241j-theory-of-city-form-spring-2013/388f04d48cf1599590ed5817d8460834_gMmamytjyXI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/gMmamytjyXI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/0ed9d5d3e84e94e092b44a02bbe5d9dc_gMmamytjyXI.pdf
+  video_transcript_file: /courses/4-241j-theory-of-city-form-spring-2013/0ed9d5d3e84e94e092b44a02bbe5d9dc_gMmamytjyXI.pdf
 video_metadata:
   youtube_id: gMmamytjyXI
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Term Paper
 uid: 79ec7efc-8164-a162-2eb8-3938d98390c7
 ---

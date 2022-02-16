@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 3: Normative Theory II: The City as Machine'
 uid: c56346dd-6ea3-331d-d589-2e69338a24b5
 video_files:
   archive_url: http://www.archive.org/download/MIT4.241JS13/MIT4_241JS13_lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/4895367a02915ebf8620197df41075db_oBKDFgLoR9o.vtt
+  video_captions_file: /courses/4-241j-theory-of-city-form-spring-2013/4895367a02915ebf8620197df41075db_oBKDFgLoR9o.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oBKDFgLoR9o/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/5715de8505cdc495410cd9622bfa2830_oBKDFgLoR9o.pdf
+  video_transcript_file: /courses/4-241j-theory-of-city-form-spring-2013/5715de8505cdc495410cd9622bfa2830_oBKDFgLoR9o.pdf
 video_metadata:
   youtube_id: oBKDFgLoR9o
 ---

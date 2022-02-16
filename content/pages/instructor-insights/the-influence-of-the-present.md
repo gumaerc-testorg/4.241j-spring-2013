@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
 title: The Influence of the Present
 uid: 5b3e38f7-fda4-36a9-de0b-29fe8f30045e

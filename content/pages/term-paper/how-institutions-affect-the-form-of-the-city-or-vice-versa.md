@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 79ec7efc-8164-a162-2eb8-3938d98390c7
 title: How Institutions Affect the Form of the City, or Vice Versa
 uid: ccd9c2e2-8438-94ae-b448-8b7c6bafed0d

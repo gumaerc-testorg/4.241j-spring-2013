@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
 title: Key Aspects of the Course
 uid: 2b26cddf-bfc9-b0b7-7eed-b81aa4a46280

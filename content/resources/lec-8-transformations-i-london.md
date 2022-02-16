@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 8: Transformations I: London'
 uid: c52e0e39-75ab-c0fc-d6b2-ef3fbdbbfbde
 video_files:
   archive_url: http://www.archive.org/download/MIT4.241JS13/MIT4_241JS13_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/c4283adef9d955df93c281ae67b1db9e_qBrYZb6tdo4.vtt
+  video_captions_file: /courses/4-241j-theory-of-city-form-spring-2013/c4283adef9d955df93c281ae67b1db9e_qBrYZb6tdo4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/qBrYZb6tdo4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/28feb342e671329ef4900aa420a7e9d0_qBrYZb6tdo4.pdf
+  video_transcript_file: /courses/4-241j-theory-of-city-form-spring-2013/28feb342e671329ef4900aa420a7e9d0_qBrYZb6tdo4.pdf
 video_metadata:
   youtube_id: qBrYZb6tdo4
 ---

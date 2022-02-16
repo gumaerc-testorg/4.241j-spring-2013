@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 18: Spatial & Social Structure III: Colony and Post-colony'
 uid: fa2266e4-652c-77c0-431d-e6296d6ae7b0

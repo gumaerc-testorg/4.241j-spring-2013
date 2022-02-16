@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-241j-theory-of-city-form-spring-2013/0b4be0420e00bba9049714d2da650919_ayw-96xs-ag.srt
+file: /media/courses/4-241j-theory-of-city-form-spring-2013/0b4be0420e00bba9049714d2da650919_ayw-96xs-ag.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 0b4be042-0e00-bba9-0497-14d2da650919

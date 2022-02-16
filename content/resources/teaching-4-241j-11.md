@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: The Influence of the Present
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Teaching 4.241J/11.330J: Embracing Complexities of Urbanism'
 uid: e46851dd-7701-7a5e-d654-479e56e21aa1

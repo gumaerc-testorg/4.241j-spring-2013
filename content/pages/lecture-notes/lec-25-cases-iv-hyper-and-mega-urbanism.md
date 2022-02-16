@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 25: Cases IV: Hyper and Mega-urbanism'
 uid: 90b20ab0-b6d8-3e6b-57a5-cb89e3f35137
