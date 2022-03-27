@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lec 12: Transformations V: Panopticism, St. Petersburg and Berlin'
 uid: 5448ad72-bc11-e07b-f63d-22cdaafb0f96
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Teaching 4.241J/11.330J: Embracing Complexities of Urbanism'
 uid: e46851dd-7701-7a5e-d654-479e56e21aa1
 video_files:

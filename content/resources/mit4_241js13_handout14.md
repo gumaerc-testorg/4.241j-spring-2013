@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 14 Handout: 20th Century Realizations: Russian and Great Britain'
 uid: 0e996610-2897-f7da-d248-02b49b3a5fe1

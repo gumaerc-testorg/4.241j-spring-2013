@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 15 Handout: City Form and Process'
 uid: 95e7260e-0123-13db-bdbf-0f20b9c80ebb

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 4 Handout: Normative Theory III: The City as Organism'
 uid: 0e0f07fe-1cb9-38c7-4b3d-4bafb4d7f57a

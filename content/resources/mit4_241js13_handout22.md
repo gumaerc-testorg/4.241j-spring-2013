@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 22 Handout: Form Models III and IV: Rationality and Memory'
 uid: cc3961b7-b598-a7c3-819e-502470143e1f

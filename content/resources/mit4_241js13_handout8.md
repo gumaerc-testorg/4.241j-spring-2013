@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 8 Handout: Transformations I: London'
 uid: 20a94a8c-39c9-a42f-e26e-2f17a7857a9b

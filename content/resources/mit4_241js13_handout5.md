@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 5 Handout: Descriptive and Functional Theory'
 uid: 59cb16b0-ed0f-1b5e-6b60-0527153d4171

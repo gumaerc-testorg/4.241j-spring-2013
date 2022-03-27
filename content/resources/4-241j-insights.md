@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: CourseSection
+parent_uid: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
 resourcetype: Image
 title: 4-241J-insights.png
 uid: 14fce5ba-6c4a-59ca-3dc8-b1974150a004

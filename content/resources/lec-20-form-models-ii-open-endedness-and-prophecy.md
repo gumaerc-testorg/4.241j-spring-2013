@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lec 20: Form Models II: Open-endedness and Prophecy'
 uid: 21dd421f-f4e7-c84f-e141-101e9cf36365
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9602db1d-52df-fcbc-a0be-7773ec53947b
 resourcetype: Document
 title: General Bibliography
 uid: a40728ab-bd55-3ff0-b385-5f6a06dd600f

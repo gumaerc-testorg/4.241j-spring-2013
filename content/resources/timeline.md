@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Adoption and Adaptation
 parent_type: CourseSection
+parent_uid: 7b5e342d-33e4-a67f-ad4c-1d265223c99b
 resourcetype: Image
 title: timeline.jpg
 uid: 1c330e94-b557-c971-bfa2-0dea197e1a1f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 12 Handout: Transformations V: Panopticism, St. Petersburg and Berlin'
 uid: aed8a2a8-07cc-f0ac-4e82-640f9c30e16f

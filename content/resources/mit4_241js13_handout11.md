@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 resourcetype: Document
 title: 'Lec 11 Handout: Transformations IV: Chicago'
 uid: 2395bf88-9a8c-eaeb-02a9-04d026b58b53

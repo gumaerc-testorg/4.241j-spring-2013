@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Key Aspects of the Course
 parent_type: CourseSection
+parent_uid: 2b26cddf-bfc9-b0b7-7eed-b81aa4a46280
 resourcetype: Image
 title: office-combined.jpg
 uid: 6a22d9a4-46ed-087e-e108-502f739a5322

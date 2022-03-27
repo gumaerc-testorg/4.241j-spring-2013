@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lec 6: Dimensions, Patterns, Agreements, Structure, and Syntax'
 uid: 757d2538-3ec8-77e2-413e-550cddbfbb48
 video_files:

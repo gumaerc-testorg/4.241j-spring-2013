@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: The "Theory" in Theory of City Form
 parent_type: CourseSection
+parent_uid: a735424a-98f6-c7c8-ff74-9476dacde695
 resourcetype: Image
 title: case-examples.jpg
 uid: 924b970d-a90f-859e-dfd1-94caddd0b1e6
