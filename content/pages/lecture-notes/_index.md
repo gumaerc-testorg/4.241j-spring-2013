@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a table listing the lectures given in the course
+  with links to pages that include a lecture summary for the class, pages from the
+  class handout, referenced texts from the lecture, as well as a list of precedents,
+  examples, and works discussed during the class. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -42,7 +46,7 @@ Introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Normative Theory I: The City as Supernatural]({{< baseurl >}}/pages/lecture-notes/lec-2-normative-theory-i-the-city-as-supernatural)
+{{% resource_link bee7b456-e71a-d59c-0ab6-30e61bf872fa "Normative Theory I: The City as Supernatural" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Introduction
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Normative Theory II: The City as Machine]({{< baseurl >}}/pages/lecture-notes/lec-3-normative-theory-ii-the-city-as-machine)
+{{% resource_link 4a3ecd87-617a-7259-f32a-d4f121886c5a "Normative Theory II: The City as Machine" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Introduction
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Normative Theory III: The City as Organism]({{< baseurl >}}/pages/lecture-notes/lec-4-normative-theory-iii-the-city-as-organism)
+{{% resource_link 772834f6-7d3d-dee3-9a49-c52c8148fe9a "Normative Theory III: The City as Organism" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Introduction
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Descriptive and Functional Theory]({{< baseurl >}}/pages/lecture-notes/lec-5-descriptive-and-functional-theory)
+{{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "Descriptive and Functional Theory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Introduction
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Dimensions, Patterns, Agreements, Structure, and Syntax]({{< baseurl >}}/pages/lecture-notes/lec-6-dimensions-patterns-agreements-structure-and-syntax)
+{{% resource_link 611f0268-002f-d76a-b553-e5726f87b2cb "Dimensions, Patterns, Agreements, Structure, and Syntax" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +97,7 @@ Introduction
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[The Early Cities of Capitalism]({{< baseurl >}}/pages/lecture-notes/lec-7-the-early-cities-of-capitalism)
+{{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "The Early Cities of Capitalism" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +106,7 @@ Introduction
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Transformations I: London]({{< baseurl >}}/pages/lecture-notes/lec-8-transformations-i-london)
+{{% resource_link b183d741-25a1-87e9-189d-92b53c843809 "Transformations I: London" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +115,7 @@ Introduction
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Transformations II: Paris]({{< baseurl >}}/pages/lecture-notes/lec-9-transformations-ii-paris)
+{{% resource_link a2b6f7da-38d3-423c-22eb-a89d63a1b339 "Transformations II: Paris" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Introduction
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Transformations III: Vienna and Barcelona]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona)
+{{% resource_link dc18d7ab-b1f6-fa8c-48c6-74652cb4c659 "Transformations III: Vienna and Barcelona" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +133,7 @@ Introduction
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Transformations IV: Chicago]({{< baseurl >}}/pages/lecture-notes/lec-11-transformations-iv-chicago)
+{{% resource_link fe50cbfd-0b24-dfc3-aad6-79ef305c43c4 "Transformations IV: Chicago" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +142,7 @@ Introduction
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Transformations V: Panopticism, St. Petersburg and Berlin]({{< baseurl >}}/pages/lecture-notes/lec-12-transformations-v-panopticism-st.-petersburg-and-berlin)
+{{% resource_link 59854ea2-e3c7-fc39-2c3a-01f7203d35b3 "Transformations V: Panopticism, St. Petersburg and Berlin" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +151,7 @@ Introduction
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Utopianism as Social Reform and Built Form]({{< baseurl >}}/pages/lecture-notes/lec-13-utopianism-as-social-reform-and-built-form)
+{{% resource_link d6a347b7-7065-0787-6c78-66849dfe1604 "Utopianism as Social Reform and Built Form" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +160,7 @@ Introduction
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[20th Century Realizations: Russian and Great Britain]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain)
+{{% resource_link 423aeef3-ddb2-d12d-2670-2d8bf1abe659 "20th Century Realizations: Russian and Great Britain" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +175,7 @@ Introduction
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[City Form and Process]({{< baseurl >}}/pages/lecture-notes/lec-15-city-form-and-process)
+{{% resource_link 42a01cf4-ef09-d49f-1377-807e8aeec4b8 "City Form and Process" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +184,7 @@ Introduction
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Spatial & Social Structure I: Theory]({{< baseurl >}}/pages/lecture-notes/lec-16-spatial-social-structure-i-theory)
+{{% resource_link 7228ae0f-8c13-6e33-9f10-a04ee8a620fc "Spatial & Social Structure I: Theory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +193,7 @@ Introduction
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Spatial & Social Structure II: Bipolarity]({{< baseurl >}}/pages/lecture-notes/lec-17-spatial-social-structure-ii-bipolarity)
+{{% resource_link f6d13dfd-b74c-04f8-5dd8-c56d041d6712 "Spatial & Social Structure II: Bipolarity" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +202,7 @@ Introduction
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Spatial & Social Structure III: Colony & Post-colony]({{< baseurl >}}/pages/lecture-notes/lec-18-spatial-social-structure-iii-colony-post-colony)
+{{% resource_link fa2266e4-652c-77c0-431d-e6296d6ae7b0 "Spatial & Social Structure III: Colony & Post-colony" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +211,7 @@ Introduction
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Form Models I: Modern and Post-modern Urbanism]({{< baseurl >}}/pages/lecture-notes/lec-19-form-models-i-modern-and-post-modern-urbanism)
+{{% resource_link 78e73b78-bef2-b990-0b57-b2b1200bd943 "Form Models I: Modern and Post-modern Urbanism" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +220,7 @@ Introduction
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Form Models II: Open-endedness and Prophecy]({{< baseurl >}}/pages/lecture-notes/lec-20-form-models-ii-open-endedness-and-prophecy)
+{{% resource_link ef8a4c55-41c3-f297-dcda-efa3ec9ecffa "Form Models II: Open-endedness and Prophecy" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +229,7 @@ Introduction
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Form Models III and IV: Rationality and Memory]({{< baseurl >}}/pages/lecture-notes/lec-21-form-models-iii-and-iv-rationality-and-memory)
+{{% resource_link bc71084e-6d4e-27fe-5f23-66512793d080 "Form Models III and IV: Rationality and Memory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +238,7 @@ Introduction
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Cases I: Public and Private Domains]({{< baseurl >}}/pages/lecture-notes/lec-22-cases-i-public-and-private-domains)
+{{% resource_link 5a307160-dfd9-e921-5166-56dc50d356f9 "Cases I: Public and Private Domains" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +247,7 @@ Introduction
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Cases II: Suburbs and Periphery]({{< baseurl >}}/pages/lecture-notes/lec-23-cases-ii-suburbs-and-periphery)
+{{% resource_link 097c6853-d19d-7a28-c378-c4bc52c3f804 "Cases II: Suburbs and Periphery" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +256,7 @@ Introduction
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Cases III: Post-urbanism and Resource Conservation]({{< baseurl >}}/pages/lecture-notes/lec-24-cases-iii-post-urbanism-and-resource-conservation)
+{{% resource_link ab60759e-1b51-f29f-6486-1de4e727e69c "Cases III: Post-urbanism and Resource Conservation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +265,7 @@ Introduction
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Cases IV: Hyper and Mega-urbanism]({{< baseurl >}}/pages/lecture-notes/lec-25-cases-iv-hyper-and-mega-urbanism)
+{{% resource_link 90b20ab0-b6d8-3e6b-57a5-cb89e3f35137 "Cases IV: Hyper and Mega-urbanism" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

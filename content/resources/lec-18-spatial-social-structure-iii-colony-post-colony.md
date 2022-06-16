@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture begins with a discussion of borders between legal and illegal as well as upper and lower classes, with an example of the Mexican-American border. Colonization and case studies are discussed, along with spatial techniques and power displays.
 
 **Instructor:** Julian Beinart
+
+
+

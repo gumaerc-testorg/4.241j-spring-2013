@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the construction of new towns in the UK and Russia.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: 'Lec 14: 20th Century Realizations: Russian and Great Britain'
 uid: 423aeef3-ddb2-d12d-2670-2d8bf1abe659
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-13-utopianism-as-social-reform-and-built-form) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-15-city-form-and-process)
+{{% resource_link d6a347b7-7065-0787-6c78-66849dfe1604 "« Previous" %}} | {{% resource_link 42a01cf4-ef09-d49f-1377-807e8aeec4b8 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -24,7 +26,7 @@ Following the success of the October 1917 revolution, Russian architects and pla
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout14)
+{{% resource_link 0e996610-2897-f7da-d248-02b49b3a5fe1 "Handout for Lecture 14 (PDF)" %}}
 
 *   Page 1: Mossovet and Sakulin plans for Moscow
 
@@ -38,4 +40,4 @@ Examples, Precedents, and Works
 
 Plan for London, England (Patrick Abercrombie); Welwyn Garden City, Stevenage, Runcorn, Milton Keynes (England); Cumbernauld (Scotland); capitalist city (Milyutin); plan for Moscow, and Centrosoyuz Building (Le Corbusier); plan for Moscow (Ernst May); La Ville Vert, and linear city (Nikolai Ladovsky); La Ville Vert, and Narkomfin (Moisei Ginzburg); La Ville Vert, and Soviet Pavilion in 1924 (Konstantin Melnikov); Magnitogorsk (Ivan Leonidov); Stalingrad, and Rusakov Workers Club (Russia); Zuyev Club (Ilya Golosov); Leningradskaia Pravada competition
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-13-utopianism-as-social-reform-and-built-form) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-15-city-form-and-process)
+{{% resource_link d6a347b7-7065-0787-6c78-66849dfe1604 "« Previous" %}} | {{% resource_link 42a01cf4-ef09-d49f-1377-807e8aeec4b8 "Next »" %}}

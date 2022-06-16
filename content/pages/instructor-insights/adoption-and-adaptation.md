@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Beinart describes how he inherited the course
+  from Prof. Lynch, and how the course has developed over the years. He also describes
+  how the course serves the class demographic at MIT.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +18,7 @@ _In this section, Prof. Beinart describes how he inherited the course from Prof.
 A Legacy Left by Lynch
 ----------------------
 
-![Timeline with annotations of works, names, and dates.]({{< resource_file 1c330e94-b557-c971-bfa2-0dea197e1a1f >}})
+{{< resource 1c330e94-b557-c971-bfa2-0dea197e1a1f >}}
 
 A timeline of Utopian models proposed in the nineteenth and twentieth centuries that serve as the basis of discussion in several class lectures.
 

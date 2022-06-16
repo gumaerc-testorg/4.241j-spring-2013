@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary and a list of referenced texts
+  and works for a lecture on interpretations of how to deal with the past, which refers
+  to both history and memory.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 21: Form Models III and IV: Rationality and Memory'
 uid: bc71084e-6d4e-27fe-5f23-66512793d080
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-20-form-models-ii-open-endedness-and-prophecy) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-22-cases-i-public-and-private-domains)
+{{% resource_link ef8a4c55-41c3-f297-dcda-efa3ec9ecffa "« Previous" %}} | {{% resource_link 5a307160-dfd9-e921-5166-56dc50d356f9 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -37,4 +40,4 @@ Examples, Precedents, and Works
 
 Palazzo della Ragiona in Padua, and Gallarate Housing Project (Italy); project for a church (Carlo Fontana); Saunier (France); Roman Lucca; Berkeley co-op, San Francisco’s Chinatown (California, United States); Faneuil Hall Marketplace, and Church Court in Boston (Massachusetts, United States); South Street Seaport, and Seacoast fish Market (New York, United States); Pike Place Market in Seattle (Washington, United States); Ford Rouge Factory (Michigan, United States); entry for "Progetto-Bicocca" Pirelli Competition (Giancarlo de Carlo); entry for "Progetto-Bicocca" Pirelli Competition (Gabetti e Isola); Wexner Center (Ohio, United States); Chicago (Illinois, United States); London (Prince Charles); Richmond Terrace (Quinlan Terry); US Holocaust Memorial Museum, and US Air Force Memorial (James Ingo Freed); Franklin D. Roosevelt Memorial (Lawrence Halprin); Washington Monument (Robert Mills); addition to Vietnam War Memorial (Ross Perot); US Navy Memorial (Conklin Rossant)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-20-form-models-ii-open-endedness-and-prophecy) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-22-cases-i-public-and-private-domains)
+{{% resource_link ef8a4c55-41c3-f297-dcda-efa3ec9ecffa "« Previous" %}} | {{% resource_link 5a307160-dfd9-e921-5166-56dc50d356f9 "Next »" %}}

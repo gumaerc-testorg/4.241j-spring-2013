@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the development of Paris, and Haussmann's rebuilding
+  of the city.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 9: Transformations II: Paris'
 uid: a2b6f7da-38d3-423c-22eb-a89d63a1b339
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-8-transformations-i-london) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona)
+{{% resource_link b183d741-25a1-87e9-189d-92b53c843809 "« Previous" %}} | {{% resource_link dc18d7ab-b1f6-fa8c-48c6-74652cb4c659 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -24,7 +27,7 @@ The ascent of Louis Napoleon in 1848 changed the economic formula by which moder
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 9 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit4_241js13_handout9)
+{{% resource_link caafe0b2-f9bb-a143-3390-014ef6ce747d "Handout for Lecture 9 (PDF - 2.6MB)" %}}
 
 *   Page 1: Development in Pairs from the seventeenth to nineteenth century
 *   Page 2: Network of streets implemented, thick and inherited streets, thin (Georges-Eugène Haussmann)
@@ -41,4 +44,4 @@ Examples, Precedents, and Works
 
 _Les très riches heures du Duc de Berry—Juin_, 1750 plan for Paris, The Louvre, Cours-la-Reine, Place Royale and the Carrousel, Place de la Bourse, Rue Rambuteau, Boulevard de Sébastopol, Champs-Élysées, Avenue Foch, Palais Garnier, Boulevard Richard-Lenoir, Paris underground (Paris, France); _Paris Street; Rainy Day_ (Gustave Caillebotte); Académie royale des beaux-arts Bruxelles (Belgium)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-8-transformations-i-london) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-10-transformations-iii-vienna-and-barcelona)
+{{% resource_link b183d741-25a1-87e9-189d-92b53c843809 "« Previous" %}} | {{% resource_link dc18d7ab-b1f6-fa8c-48c6-74652cb4c659 "Next »" %}}

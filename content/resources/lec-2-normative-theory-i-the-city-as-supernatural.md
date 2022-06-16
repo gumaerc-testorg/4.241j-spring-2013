@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture focuses on the cosmic model of the city, and the city as a consciousness and expression of religion. Some examples discussed include Solomon's temple, Eliade's depiction of the archaic man, feng shui, Athens, and barays.
 
 **Instructor:** Julian Beinart
+
+
+

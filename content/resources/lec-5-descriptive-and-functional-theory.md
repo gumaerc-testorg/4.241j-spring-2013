@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture introduces theories concerning historical value, early Marxism, uniqueness, speed of change, genius loci, ecology of people, divisions, economic model, and chaos theory.
 
 **Instructor:** Julian Beinart
+
+
+

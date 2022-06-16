@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture focuses on the development of Paris, and Haussmann's rebuilding of the city, with an emphasis on the emergent business and management model. Notions of play, distribution, the role of streets and walls, and psychogeography are discussed.
 
 **Instructor:** Julian Beinart
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: The Influence of the Present
@@ -25,3 +26,6 @@ video_metadata:
 
 **Description:** In this video, Professor Julian Beinart discusses the need to recognize the complexities of cities and urbanism.  
 **Instructor:** Julian Beinart
+
+
+

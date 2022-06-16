@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidance for those who choose to write a term paper
+  on form issues of today. Examples of past student papers are also provided.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Term Paper

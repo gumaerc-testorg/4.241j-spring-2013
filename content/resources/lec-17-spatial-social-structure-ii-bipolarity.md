@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture features a case study of Johannesburg and the stages of South African urbanism. Mining camps, the informal city, tribal communities, decorative systems, and fluid communities are discussed in context of apartheid and the segregated society.
 
 **Instructor:** Julian Beinart
+
+
+

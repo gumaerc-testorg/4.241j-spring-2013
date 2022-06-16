@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on border cities, colonial cities, and post-colonial
+  cities.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 18: Spatial & Social Structure III: Colony and Post-colony'
 uid: fa2266e4-652c-77c0-431d-e6296d6ae7b0
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-17-spatial-social-structure-ii-bipolarity) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-19-form-models-i-modern-and-post-modern-urbanism)
+{{% resource_link f6d13dfd-b74c-04f8-5dd8-c56d041d6712 "« Previous" %}} | {{% resource_link 78e73b78-bef2-b990-0b57-b2b1200bd943 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -24,7 +27,7 @@ A brief look at the case of the reforming of a previously colonial Spanish city,
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 18 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout18)
+{{% resource_link 182147da-743e-3661-285d-48d3395cafa2 "Handout for Lecture 18 (PDF)" %}}
 
 *   Page 1: The 2,000-mile ribbon of paired cities on the Mexican/American border
 
@@ -38,4 +41,4 @@ Examples, Precedents, and Works
 
 Tijuana settlement; San Diego, and La Jolla (California, United States); Ciudad Juárez, and El Paso (Texas, United States); Shahjahanabad, New Delhi, and Calcutta (India); Havana (Cuba); Law of Indies plan
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-17-spatial-social-structure-ii-bipolarity) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-19-form-models-i-modern-and-post-modern-urbanism)
+{{% resource_link f6d13dfd-b74c-04f8-5dd8-c56d041d6712 "« Previous" %}} | {{% resource_link 78e73b78-bef2-b990-0b57-b2b1200bd943 "Next »" %}}

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** The lecture starts with Kevin Lynch's _The Image of a City_, defining image as identity, structure, and meaning. Other topics include the reduction of complexity, the city as a set of agreements, correlation and movement pattern, and the space syntax.
 
 **Instructor:** Julian Beinart
+
+
+

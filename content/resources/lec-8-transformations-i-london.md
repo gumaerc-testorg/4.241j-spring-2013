@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture focuses on London during the Advent of Modernism. Major changes and events including welfare, city planning, the Great Fire and Plague, sewage and transportation systems, creation of estates and gardens, and deficit spending are discussed.
 
 **Instructor:** Julian Beinart
+
+
+

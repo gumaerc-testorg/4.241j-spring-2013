@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture presents the entirety of the course content to create connections among the previous 25 lectures. Preceding is a discourse on theory being supported by facts, the importance of details, and the existent relationship between space and society.
 
 **Instructor:** Julian Beinart
+
+
+

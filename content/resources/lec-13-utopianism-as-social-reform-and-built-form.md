@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture starts with defining the goals of utopia, and its address of the boundary problems in society. Example communities are discussed to analyze why such communities fail. The works of three architects are discussed with the lens of social reform.
 
 **Instructor:** Julian Beinart
+
+
+

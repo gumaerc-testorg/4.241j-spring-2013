@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  works for a lecture on the cosmic model of the city, and the city as a consciousness
+  and expression of religion.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 2: Normative Theory I: The City as Supernatural'
 uid: bee7b456-e71a-d59c-0ab6-30e61bf872fa
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-3-normative-theory-ii-the-city-as-machine)
+{{% resource_link a3d91747-fe05-37ef-d9d2-3e93312c4b95 "« Previous" %}} | {{% resource_link 4a3ecd87-617a-7259-f32a-d4f121886c5a "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -22,7 +25,7 @@ Debate surrounds the origin of cities. For example, the spiritual significance i
 Handout
 -------
 
-[Handout for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout2)
+{{% resource_link 41ef64a3-4aa5-8855-d23e-2bd2c68c75f4 "Handout for Lecture 2 (PDF)" %}}
 
 *   Page 1: Matrix of the three normative models
 *   Page 2: Elements and components of the cosmic model
@@ -32,4 +35,4 @@ Examples, Precedents, and Works
 
 The Angkor Group (fourteenth-century Cambodia); ancient Athens (Greece); Çatalhöyük (southern Anatolia); Batang Benar (Malaysia); Kaaba (Mecca, Saudi Arabia); Teotihuacán and the Street of the Dead (Mexico City); Chichen Itza (Mexico); Masada and Jerusalem (Israel); Tenochtitlan (pre-Columbian Mexico); The City of the Dipper (China); Edfu (Egypt); Massa homestead (Cameroon); Mausoleum of Mao Zedong, Tiananmen Square, and the Imperial City (China); Vashu Purusa and Manduka/Chandita Mandalas, Jaipur, and Madurai (India)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-3-normative-theory-ii-the-city-as-machine)
+{{% resource_link a3d91747-fe05-37ef-d9d2-3e93312c4b95 "« Previous" %}} | {{% resource_link 4a3ecd87-617a-7259-f32a-d4f121886c5a "Next »" %}}

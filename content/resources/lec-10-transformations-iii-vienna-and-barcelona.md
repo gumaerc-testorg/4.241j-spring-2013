@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture begins with a study of Vienna and its wall system, the middle-class. economy, Ringstrasse, and Red Vienna. The latter part of the lecture focuses on Barcelona, and its extension constructed around the city's center.
 
 **Instructor:** Julian Beinart
+
+
+

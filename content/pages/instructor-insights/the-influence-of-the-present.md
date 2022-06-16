@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Beinart reflects upon the developing field of
+  urbanism and offers his personal thoughts on 36 years of teaching this course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

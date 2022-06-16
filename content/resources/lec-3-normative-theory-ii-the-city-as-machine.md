@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers the machine model, characterized by visual economy, decentralization, and urbanizing at low costs. Comparisons are drawn between the cosmic model, with examples including colonial expansion in Greece, Roman cities, and French bastides.
 
 **Instructor:** Julian Beinart
+
+
+

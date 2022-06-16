@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Beinart shares his insights on key aspects of
+  the course, how they have come about, and their impact on the development of the
+  course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +18,7 @@ _In this section, Prof. Beinart shares his insights on key aspects of the course
 Readings
 --------
 
-![Books lining the hallway and bookshelves on an office.]({{< resource_file 6a22d9a4-46ed-087e-e108-502f739a5322 >}})
+{{< resource 6a22d9a4-46ed-087e-e108-502f739a5322 >}}
 
 The amount of supporting literature in Prof. Beinart's office is testament to his belief in continuous learning through reading. (Image courtesy of MIT OpenCourseWare.)
 
@@ -39,7 +42,7 @@ I also learn from students' work. I now know more about what Durban is proposing
 Case Studies
 ------------
 
-![Diagram of the Nevsky Prospect with annotations.]({{< resource_file 0f1b7af7-7bb6-5184-331c-87e1763ff5fd >}})
+{{< resource 0f1b7af7-7bb6-5184-331c-87e1763ff5fd >}}
 
 Prof. Beinart uses an annotated plan of the Nevsky Prospect in St. Petersburg to highlight important features of the city to students.
 

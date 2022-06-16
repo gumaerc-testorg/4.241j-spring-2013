@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on theories concerning historical value, early Marxism,
+  uniqueness, speed of change, genius loci, ecology of people, divisions, economic
+  models, and chaos theory.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +14,7 @@ title: 'Lec 5: Descriptive and Functional Theory'
 uid: 4474e7ec-cbf7-8e3b-eee9-8d6485842852
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-4-normative-theory-iii-the-city-as-organism) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-6-dimensions-patterns-agreements-structure-and-syntax)
+{{% resource_link 772834f6-7d3d-dee3-9a49-c52c8148fe9a "« Previous" %}} | {{% resource_link 611f0268-002f-d76a-b553-e5726f87b2cb "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -26,7 +30,7 @@ The fourth set of propositions regards the city as a field of forces, a communic
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 5 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout5)
+{{% resource_link 59cb16b0-ed0f-1b5e-6b60-0527153d4171 "Handout for Lecture 5 (PDF)" %}}
 
 *   Page 1: Components of descriptive and functional theories
 *   Page 2: On "reading" the city (John Ruskin v. Friedrich Engels)
@@ -47,4 +51,4 @@ Examples, Precedents, and Works
 
 Plans of metropolitan cores in Atlanta region and predominant metropolitan growth pattern, 1995 (Robert Charles Lesser & Co.)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-4-normative-theory-iii-the-city-as-organism) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-6-dimensions-patterns-agreements-structure-and-syntax)
+{{% resource_link 772834f6-7d3d-dee3-9a49-c52c8148fe9a "« Previous" %}} | {{% resource_link 611f0268-002f-d76a-b553-e5726f87b2cb "Next »" %}}

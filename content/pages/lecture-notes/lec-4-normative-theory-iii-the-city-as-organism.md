@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the organic model and on appropriateness of size
+  and boundaries as dictated by nature, population, and nonorthogonal forms.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 4: Normative Theory III: The City as Organism'
 uid: 772834f6-7d3d-dee3-9a49-c52c8148fe9a
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-3-normative-theory-ii-the-city-as-machine) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-5-descriptive-and-functional-theory)
+{{% resource_link 4a3ecd87-617a-7259-f32a-d4f121886c5a "« Previous" %}} | {{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -22,7 +25,7 @@ Three cases are examined to locate these principles in practice. In the first ca
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 4 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit4_241js13_handout4)
+{{% resource_link 0e0f07fe-1cb9-38c7-4b3d-4bafb4d7f57a "Handout for Lecture 4 (PDF - 1.1MB)" %}}
 
 *   Page 1: Components of the cosmic model
 *   Page 2: The Valley Section (Patrick Geddes)
@@ -43,4 +46,4 @@ Examples, Precedents, and Works
 
 The Valley Section (Patrick Geddes); plan for London, England (Eliel Saarinen); plan for Washington D.C. (Victor Gruen); plan of the University of Jerusalem; plan for Balrampur, India (Patrick Geddes); plan for Manchester, England (Friedrich Engels); Golders Green, Adelaide, Welwyn Garden City, Sunnyside Gardens (England); Central Park (New York, United States); Chatham Village (Pennsylvania, United States); Greenbelt (Maryland, United States)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-3-normative-theory-ii-the-city-as-machine) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-5-descriptive-and-functional-theory)
+{{% resource_link 4a3ecd87-617a-7259-f32a-d4f121886c5a "« Previous" %}} | {{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "Next »" %}}

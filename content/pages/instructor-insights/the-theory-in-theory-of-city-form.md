@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Beinart explains his perspective on approaching
+  the course content as well as how that has influenced the material presented in
+  the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +20,7 @@ Using Examples to Explore Theory
 
 From Kevin Lynch's early work, you can already see that he was attracted to the style of thinking from the Chicago School, which is very American in that it connects theory and practice. If I were teaching this course in France, I would never have to show an example. I would simply build theory upon theory, which would be very difficult because I am not a philosopher.
 
-![A series of diagrams comparing city form typologies.]({{< resource_file 924b970d-a90f-859e-dfd1-94caddd0b1e6 >}})
+{{< resource 924b970d-a90f-859e-dfd1-94caddd0b1e6 >}}
 
 A diagram from Prof. Beinart's lecture notes comparing the London Square, Paris Boulevard, Vienna Gruppenhaus / HOF, Barcelona Block, Sunnyside Gardens "superblock," and German "siedlung."
 

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on Vienna and its wall system, as well as Barcelona
+  and its extension.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 10: Transformations III: Vienna and Barcelona'
 uid: dc18d7ab-b1f6-fa8c-48c6-74652cb4c659
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-9-transformations-ii-paris) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-11-transformations-iv-chicago)
+{{% resource_link a2b6f7da-38d3-423c-22eb-a89d63a1b339 "« Previous" %}} | {{% resource_link fe50cbfd-0b24-dfc3-aad6-79ef305c43c4 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -24,7 +27,7 @@ Barcelona was a walled medieval city and the center of industrial development in
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 10 (PDF - 5.5MB)]({{< baseurl >}}/resources/mit4_241js13_handout10)
+{{% resource_link 1fa43e9f-921b-9d86-9ceb-4ca9f308871c "Handout for Lecture 10 (PDF - 5.5MB)" %}}
 
 *   Page 1: Seven sectors of the Vienna Ringstrasse from the Danube
 *   Page 2: Aerial photo of Cerdà's Ensanche and the old city in Barcelona
@@ -39,4 +42,4 @@ Examples, Precedents, and Works
 
 Gruppenzinshaus, Danube Canal, Karlsplatz Stadtbahn Station, and Karl Marx-Hof (Vienna, Austria), proposed plan for Vienna (Camilo Sitte), zoning of expansion and extension for Vienna (Otto Wagner), plan of Ensanche in Barcelona, Spain (Ildefons Cerdà), Las Ramblas, and Passeig de Gràcia (Spain); Casa Batlló, Casa Milà, and La Sagrada Familia (Antonio Gaudí); proposed plans for Barcelona (Le Corbusier); proposed plans for Barcelona (Leon Krier); plan for Torino (Alessandro Antonelli); plan for Madrid (Carlos María de Castro); plan for Bari (Trotti); plan for Athens (Kleanthes-Schaubert); Altamura, Puglia (Italy)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-9-transformations-ii-paris) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-11-transformations-iv-chicago)
+{{% resource_link a2b6f7da-38d3-423c-22eb-a89d63a1b339 "« Previous" %}} | {{% resource_link fe50cbfd-0b24-dfc3-aad6-79ef305c43c4 "Next »" %}}

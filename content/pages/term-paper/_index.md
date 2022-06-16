@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the term paper for the course, including
+  requirements, deliverables schedule, guidance, and suggested topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Term Paper
@@ -34,7 +36,7 @@ There are many valid, unexplored topics in line with the general exploration of 
 
 Below are links to pages that provide more detailed guidance on a particular approach to the paper, as well as lists of sample topics from past student papers:
 
-*   [Case studies of cities]({{< baseurl >}}/pages/term-paper/case-studies-of-cities)
-*   [More deeply-researched aspects of a topic (from the class lectures)]({{< baseurl >}}/pages/term-paper/more-deeply-researched-aspects-of-a-topic)
-*   [Form issues of today]({{< baseurl >}}/pages/term-paper/form-issues-of-today)
-*   [How institutions affect the form of the city, or vice versa]({{< baseurl >}}/pages/term-paper/how-institutions-affect-the-form-of-the-city-or-vice-versa)
+*   {{% resource_link b8009992-c0eb-deb7-77cd-12da197338e8 "Case studies of cities" %}}
+*   {{% resource_link 10d5014a-51a8-5c2e-e061-9feaedc72710 "More deeply-researched aspects of a topic (from the class lectures)" %}}
+*   {{% resource_link 10c2318f-c81b-a38a-1128-896d7be2beec "Form issues of today" %}}
+*   {{% resource_link ccd9c2e2-8438-94ae-b448-8b7c6bafed0d "How institutions affect the form of the city, or vice versa" %}}

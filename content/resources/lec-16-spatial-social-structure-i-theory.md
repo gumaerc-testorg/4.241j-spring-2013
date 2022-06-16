@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** The lecture starts with the relationship between social structure and spatial structure. Jerusalem is taken as a case study that frames ideas about religion as a democratic phenomenon, the emergence of the synagogue, and the notion of a shared capital.
 
 **Instructor:** Julian Beinart
+
+
+

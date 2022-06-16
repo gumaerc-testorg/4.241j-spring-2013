@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-241j-theory-of-city-form-spring-2013/b5690d3b516c8b2eb55540823ff4bb9c_MIT4_241JS13_lec6_th.jpg
+file: /courses/4-241j-theory-of-city-form-spring-2013/b5690d3b516c8b2eb55540823ff4bb9c_MIT4_241JS13_lec6_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

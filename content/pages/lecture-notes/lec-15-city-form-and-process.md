@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the relationship between the way a city is made
+  and its form.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 15: City Form and Process'
 uid: 42a01cf4-ef09-d49f-1377-807e8aeec4b8
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-16-spatial-social-structure-i-theory)
+{{% resource_link 423aeef3-ddb2-d12d-2670-2d8bf1abe659 "« Previous" %}} | {{% resource_link 7228ae0f-8c13-6e33-9f10-a04ee8a620fc "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -26,7 +29,7 @@ The invention of "advocacy," professionals using their expertise in favor of tho
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 15 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout15)
+{{% resource_link 95e7260e-0123-13db-bdbf-0f20b9c80ebb "Handout for Lecture 15 (PDF)" %}}
 
 *   Page 1: Summary of commentaries about the views of Robert Moses from 1975
 
@@ -42,4 +45,4 @@ Examples, Precedents, and Works
 
 Housing in Terni, and restoration in Bologna (Italy); planning of Pittsburg, and University of Pennsylvania (Pennsylvania, United States); Louvain University (Lucien Kroll); Northern State Parkway, Grand Central Parkway, and Brooklyn Bridge (Robert Moses); Genova project; Fun Palace, and InterAtion Center (Cedric Price); Bedford-Stuyvesant (New York, United States); "Manhattan" plan (Brussels)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-14-20th-century-realizations-russian-and-great-britain) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-16-spatial-social-structure-i-theory)
+{{% resource_link 423aeef3-ddb2-d12d-2670-2d8bf1abe659 "« Previous" %}} | {{% resource_link 7228ae0f-8c13-6e33-9f10-a04ee8a620fc "Next »" %}}

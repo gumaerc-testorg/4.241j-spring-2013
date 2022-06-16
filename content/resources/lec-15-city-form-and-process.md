@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture focuses on the relationship between the way a city is made and its form. Factors such as educating citizens, trade-offs with public, incentives of the public sector, and power systems within a city are presented alongside case studies.
 
 **Instructor:** Julian Beinart
+
+
+

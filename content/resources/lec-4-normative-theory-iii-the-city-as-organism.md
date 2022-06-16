@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers the organic model and on appropriateness of size and boundaries as dictated by nature, homeostasis, optimal size, population, value of land, and nonorthogonal forms. A case study on the Tennessee Valley Authority is also presented.
 
 **Instructor:** Julian Beinart
+
+
+

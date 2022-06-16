@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture presents interpretations of how to deal with the past, which refers to both history and memory. The views of Aldo Rossi and Léon Krier are offered for debate, as well as the use of architecture in museums, memorials, and as a pneumonic.
 
 **Instructor:** Julian Beinart
+
+
+

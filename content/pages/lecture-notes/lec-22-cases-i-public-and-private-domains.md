@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of works
+  for a lecture on the implications of public and private space, including its history,
+  the sharing of use, public space as a democracy, and ownership of built environments.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 22: Cases I: Public and Private Domains'
 uid: 5a307160-dfd9-e921-5166-56dc50d356f9
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-21-form-models-iii-and-iv-rationality-and-memory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-23-cases-ii-suburbs-and-periphery)
+{{% resource_link bc71084e-6d4e-27fe-5f23-66512793d080 "« Previous" %}} | {{% resource_link 097c6853-d19d-7a28-c378-c4bc52c3f804 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -24,7 +27,7 @@ The contemporary city has public and private streets, public law courts with str
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 22 (PDF - 3.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout22)
+{{% resource_link cc3961b7-b598-a7c3-819e-502470143e1f "Handout for Lecture 22 (PDF - 3.4MB)" %}}
 
 *   Page 1: List of attitudes to and practices regarding the past
 *   Page 2–3: Introduction on the history and memory as presented in the 1994 Jerusalem Seminar on Architecture
@@ -36,4 +39,4 @@ Examples, Precedents, and Works
 
 Assisi, Piazza del Comune, Palio di Siena, Piazza del Campo, and Great Cathedral (Italy); Boston's City Hall Plaza (Massachusetts, United States); Rockefeller Center, Manhattan, Herald Square (New York, United States); The City Tower (Louis Kahn); National Commercial Bank (Saudi Arabia); entry for Pravda (Konstantin Melnikov); Constantinople (Turkey); (New York, United States); Lever House (SOM); Ford Foundation Building (Kevin Roche); Bank of china Tower (I.M. Pei); Centraal Beheer Insurance Company Building (Herman Hertzberger); Trump Tower (Der Scutt); Citicorp (Hugh Stubbins)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-21-form-models-iii-and-iv-rationality-and-memory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-23-cases-ii-suburbs-and-periphery)
+{{% resource_link bc71084e-6d4e-27fe-5f23-66512793d080 "« Previous" %}} | {{% resource_link 097c6853-d19d-7a28-c378-c4bc52c3f804 "Next »" %}}

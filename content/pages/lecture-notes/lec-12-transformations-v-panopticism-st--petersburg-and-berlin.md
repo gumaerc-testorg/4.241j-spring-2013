@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the enlightenment and Panopticism.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: 'Lec 12: Transformations V: Panopticism, St. Petersburg and Berlin'
 uid: 59854ea2-e3c7-fc39-2c3a-01f7203d35b3
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-11-transformations-iv-chicago) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-13-utopianism-as-social-reform-and-built-form)
+{{% resource_link fe50cbfd-0b24-dfc3-aad6-79ef305c43c4 "« Previous" %}} | {{% resource_link d6a347b7-7065-0787-6c78-66849dfe1604 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -22,7 +24,7 @@ Institutional expression changes from the display of public violence, such as to
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout12)
+{{% resource_link aed8a2a8-07cc-f0ac-4e82-640f9c30e16f "Handout for Lecture 12 (PDF)" %}}
 
 *   Page 1: Peter's Nevsky Prospekt in modern-day St. Petersburg
 
@@ -36,4 +38,4 @@ Examples, Precedents, and Works
 
 Panopticon (Jeremy Bentham); Fresnes prison, Hôtel-Dieu de Paris, and Arc de Triomphe (France); Ville de Chaux, Saline Royale at Arc-et-Senans and director's house, and house for intellectual (Claude Nicolas Ledoux); Volkshalle (Albert Speer); Nevsky Prospekt in 1725 and 1850, Anichkov Palace, Beloselsky-Belozersky Palace, the Passage, Alexander Library, Kazan Cathedral, and Moika Crossing (Moscow, Russia)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-11-transformations-iv-chicago) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-13-utopianism-as-social-reform-and-built-form)
+{{% resource_link fe50cbfd-0b24-dfc3-aad6-79ef305c43c4 "« Previous" %}} | {{% resource_link d6a347b7-7065-0787-6c78-66849dfe1604 "Next »" %}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  works for a lecture on the relationship between social structure and spatial structure,
+  with Jerusalem as a case study.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ title: 'Lec 16: Spatial & Social Structure I: Theory'
 uid: 7228ae0f-8c13-6e33-9f10-a04ee8a620fc
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-15-city-form-and-process) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-17-spatial-social-structure-ii-bipolarity)
+{{% resource_link 42a01cf4-ef09-d49f-1377-807e8aeec4b8 "« Previous" %}} | {{% resource_link f6d13dfd-b74c-04f8-5dd8-c56d041d6712 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -26,7 +29,7 @@ The construction of religious buildings and their location in the 3,000-year his
 Handout
 -------
 
-[Handout for Lecture 16 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout16)
+{{% resource_link e4cec335-600b-6e63-2689-74daa2ee8b2d "Handout for Lecture 16 (PDF)" %}}
 
 *   Page 1: Notes on the outcomes of bi-polarity
 *   Page 2: Matrix of case studies for Johannesburg/Soweto, US/Mexico, Delhi/New Delhi and Havana/Cuba
@@ -38,4 +41,4 @@ Examples, Precedents, and Works
 
 Solomon's Temple, Holy of Holies, Herod's Temple, Ezekiel's Temple, Temple of Aphrodite, Church of the Holy Sepulchre, Dome of the Rock, Al-Aqsa Mosque, Dormition Abbey, Wilson's Arch (Jerusalem, Israel); God as the Architect (The Frontispiece of Bible Moralisee); manuscript from De Civitate Dei (St. Augustine); Madaba Map (Jordan); plan for Jerusalem after British occupation (William McLean); plan for Jerusalem (Louis Kahn)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-15-city-form-and-process) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-17-spatial-social-structure-ii-bipolarity)
+{{% resource_link 42a01cf4-ef09-d49f-1377-807e8aeec4b8 "« Previous" %}} | {{% resource_link f6d13dfd-b74c-04f8-5dd8-c56d041d6712 "Next »" %}}

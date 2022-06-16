@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture summary and a list of referenced texts
+  and works for a lecture on the Industrial Revolution, with a focus on London.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: 'Lec 7: The Early Cities of Capitalism'
 uid: 4dfd8d19-7039-42df-cff2-cb6cc251c7ff
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-6-dimensions-patterns-agreements-structure-and-syntax) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-8-transformations-i-london)
+{{% resource_link 611f0268-002f-d76a-b553-e5726f87b2cb "« Previous" %}} | {{% resource_link b183d741-25a1-87e9-189d-92b53c843809 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -33,4 +35,4 @@ Examples, Precedents, and Works
 
 Manchester, Lancashire, and Glasgow (England); the _Salus Populi_; Balscott land divisions and enclosures (England)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-6-dimensions-patterns-agreements-structure-and-syntax) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-8-transformations-i-london)
+{{% resource_link 611f0268-002f-d76a-b553-e5726f87b2cb "« Previous" %}} | {{% resource_link b183d741-25a1-87e9-189d-92b53c843809 "Next »" %}}
