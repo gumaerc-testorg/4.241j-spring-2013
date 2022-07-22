@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: 'This section provides a lecture summary, a handout, and a list of referenced
+  texts for a lecture on urbanism in the Global South with Chandigarh and Diadema
+  as case studies.  '
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 25: Cases IV: Hyper and Mega-urbanism'
 uid: 90b20ab0-b6d8-3e6b-57a5-cb89e3f35137
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-24-cases-iii-post-urbanism-and-resource-conservation)
+{{% resource_link ab60759e-1b51-f29f-6486-1de4e727e69c "« Previous" %}}
 
 Lecture Summary
 ---------------
@@ -18,7 +25,7 @@ From many of these countries, the idea of building new capital cities after inde
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 25 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout25)
+{{% resource_link 5cfeff24-044b-c504-f0eb-8c110aa934be "Handout for Lecture 25 (PDF)" %}}
 
 *   Page 1: Map of 35 largest cities in the world
 
@@ -33,4 +40,4 @@ Peirce, Neal R., and Curtis W. Johnson. "Current and Projected Number of Slum Dw
 
 Boonyabancha, Somsook. "Trusting that People Can Do It." In _Design with the Other 90%: Cities_. Cooper-Hewitt, National Design Museum, Smithsonian Institution, 2011. ISBN: 9780910503839.
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-24-cases-iii-post-urbanism-and-resource-conservation)
+{{% resource_link ab60759e-1b51-f29f-6486-1de4e727e69c "« Previous" %}}

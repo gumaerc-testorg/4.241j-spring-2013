@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the machine model of the city, characterized by
+  visual economy, decentralization, and urbanizing at low costs.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 3: Normative Theory II: The City as Machine'
 uid: 4a3ecd87-617a-7259-f32a-d4f121886c5a
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-2-normative-theory-i-the-city-as-supernatural) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-4-normative-theory-iii-the-city-as-organism)
+{{% resource_link bee7b456-e71a-d59c-0ab6-30e61bf872fa "« Previous" %}} | {{% resource_link 772834f6-7d3d-dee3-9a49-c52c8148fe9a "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -18,7 +25,7 @@ The set of cases of the machine model extend from the third century BC to contem
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 3 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout3)
+{{% resource_link d14bfe6e-a2dd-45e1-2486-633288e6f52e "Handout for Lecture 3 (PDF - 1.4MB)" %}}
 
 *   Page 1: Five sites of the machine model on a westward trajectory from the third century BC to today
 *   Page 2: Excerpt from "Southwest Washington in Plans"
@@ -33,4 +40,4 @@ Examples, Precedents, and Works
 
 Bastid towns (France); Verbonia (fictitious city in Rome); Kuala Lumpur (Malaysia); Tell el-Amarna and Kahun (ancient Egypt); New Jerusalem (Israel); Miletus and Priene (ancient Greece); Rome's road system, Via Appia, Imola, Timgad, Verona, Meridian of Tordecillas (Italy); cities from _Gromatici veteres_; Caracas (Venezuela); development of Portuguese towns; Latin American colonies; plaza development in Latin American cities; land division from Ordinance of 1785; Salt Lake City (Utah, United States); Chicago (Illinois, United States); Manhattan and Central Park (New York, United States); Savannah (Georgia, United States); Madrid (Spain); The Ascoral plan; plan for Tokyo, Japan (Kenzo Tange); plan for Paris, France (Yona Friedman); Archigram drawings; dome over Manhattan (Buckminster Fuller); Soweto (Johannesburg, Africa)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-2-normative-theory-i-the-city-as-supernatural) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-4-normative-theory-iii-the-city-as-organism)
+{{% resource_link bee7b456-e71a-d59c-0ab6-30e61bf872fa "« Previous" %}} | {{% resource_link 772834f6-7d3d-dee3-9a49-c52c8148fe9a "Next »" %}}

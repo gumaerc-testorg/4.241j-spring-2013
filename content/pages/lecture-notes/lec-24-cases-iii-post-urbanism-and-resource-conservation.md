@@ -1,12 +1,20 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on urbanism and threats to urbanism including climate,
+  social equity, the move away from the central city, and the effect of urban development
+  on the environment.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 24: Cases III: Post-urbanism and Resource Conservation'
 uid: ab60759e-1b51-f29f-6486-1de4e727e69c
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-23-cases-ii-suburbs-and-periphery) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-25-cases-iv-hyper-and-mega-urbanism)
+{{% resource_link 097c6853-d19d-7a28-c378-c4bc52c3f804 "« Previous" %}} | {{% resource_link 90b20ab0-b6d8-3e6b-57a5-cb89e3f35137 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -18,7 +26,7 @@ The idea of an ecological city which stresses sustainability has not been as pro
 Handout
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout for Lecture 24 (PDF - 6.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout24)
+{{% resource_link 9de2dc9b-a001-35df-1b72-464fe14ea113 "Handout for Lecture 24 (PDF - 6.4MB)" %}}
 
 *   Pages 1–4: Beinart, Julian. "The American Downtown: Stories for the Present." _Institute for Urban Design_, 2001. (unpublished)
 *   Pages 4–8: Transcript from Panel Symposium, "Will Information Technology Help Improve City and Regional Form?" April 12, 2001.
@@ -33,4 +41,4 @@ Examples, Precedents, and Works
 
 Fort Worth Alliance Airport (Texas, United States)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-23-cases-ii-suburbs-and-periphery) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-25-cases-iv-hyper-and-mega-urbanism)
+{{% resource_link 097c6853-d19d-7a28-c378-c4bc52c3f804 "« Previous" %}} | {{% resource_link 90b20ab0-b6d8-3e6b-57a5-cb89e3f35137 "Next »" %}}

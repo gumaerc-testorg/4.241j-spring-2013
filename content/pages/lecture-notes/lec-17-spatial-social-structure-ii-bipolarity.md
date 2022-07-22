@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  works for a lecture on Johannesburg and the stages of South African urbanism.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 17: Spatial & Social Structure II: Bipolarity'
 uid: f6d13dfd-b74c-04f8-5dd8-c56d041d6712
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-16-spatial-social-structure-i-theory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-18-spatial-social-structure-iii-colony-post-colony)
+{{% resource_link 7228ae0f-8c13-6e33-9f10-a04ee8a620fc "« Previous" %}} | {{% resource_link fa2266e4-652c-77c0-431d-e6296d6ae7b0 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -18,7 +24,7 @@ To understand the bipolarity of Johannesburg in further detail, Western Native T
 Handout
 -------
 
-[Handout for Lecture 17 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit4_241js13_handout17)
+{{% resource_link 2efe5be8-c824-6f6f-20cf-159e22f3beff "Handout for Lecture 17 (PDF - 1.4MB)" %}}
 
 *   Page 1: Timelines for Johannesburg and Western Native Township.
 *   Page 2: Black locations and public / private supply of black housing in Johannesburg, 1885-1970.
@@ -30,4 +36,4 @@ Examples, Precedents, and Works
 
 Soweto huts, Charles Centre, Springs Station, Western Native Township, and housing typologies (Johannesburg, South Africa); Carlton Centre (SOM)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-16-spatial-social-structure-i-theory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-18-spatial-social-structure-iii-colony-post-colony)
+{{% resource_link 7228ae0f-8c13-6e33-9f10-a04ee8a620fc "« Previous" %}} | {{% resource_link fa2266e4-652c-77c0-431d-e6296d6ae7b0 "Next »" %}}

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidance for those who choose to write a term paper
+  on how Institutions affect the form of the city, or vice versa. Examples of past
+  student papers are also provided.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 79ec7efc-8164-a162-2eb8-3938d98390c7
 title: How Institutions Affect the Form of the City, or Vice Versa
 uid: ccd9c2e2-8438-94ae-b448-8b7c6bafed0d

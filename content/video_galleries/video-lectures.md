@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: The section contains full video lectures from the 26 class sessions of
+  the course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: a81fcd61-68f1-f799-29b9-38d765eb4192
 videos:

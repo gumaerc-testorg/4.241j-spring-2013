@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides a list of recommended readings for each lecture
+  session, background readings, ad a general bibliography with additional references.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9602db1d-52df-fcbc-a0be-7773ec53947b
 ---
 
 Listed in the table below are recommended readings for the lectures.
 
-[Background readings (PDF)]({{< baseurl >}}/resources/mit4_241js13_readings-bg) for each lecture are also available to provide a broader context, as well as a [general bibliography (PDF)]({{< baseurl >}}/resources/mit4_241js13_bibliography) with additional references.
+{{% resource_link 5f358f31-4b96-3ee7-db49-3663a7b84ffa "Background readings (PDF)" %}} for each lecture are also available to provide a broader context, as well as a {{% resource_link a40728ab-bd55-3ff0-b385-5f6a06dd600f "general bibliography (PDF)" %}} with additional references.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -139,13 +144,13 @@ Dimensions, Patterns, Agreements, Structure, and Syntax
 
 Alexander, C., S. Ishikawa, and M. Silverstein. _A Pattern Language: Towns, Buildings, Construction_. Oxford University Press, 1977, pp. ix–xl. ISBN: 9780195019193. \[Preview with [Google Books](http://books.google.com/books?id=hwAHmktpk5IC&pg=PAfrontcover)\]
 
-Habraken, N. John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
+Habraken, N. John. ["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
 
 Hillier, W., Julienne Hanson, and John Peponis. "[Syntactic Analysis of Settlements](http://discovery.ucl.ac.uk/86/)." _Architecture et Comportement (Architecture and Behavior)_ 3, no. 3 (1987): 217–31.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620468) Lynch, Kevin. "Dimensions of Performance." Chapter 6 in [_Good City Form_](https://mitpress.mit.edu/9780262620468). MIT Press, 1984, pp. 111–20. ISBN: 9780262620468. \[Preview with [Google Books](http://books.google.com/books?id=flJdgBoKQHQC&pg=PA111#v=onepage)\]
 
-Martin, Leslie. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
+Martin, Leslie. ["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
 
 
 {{< tdclose >}}
@@ -229,7 +234,7 @@ Transformations III: Vienna and Barcelona
 
 Schorske, Carl. "The Ringstrasse, Its Critics, and the Birth of Urban Modernsim." Chapter II in _Fin-de-Siecle Vienna: Politics and Culture_. Vintage, 1980, pp. 24–110. ISBN: 9780394744780.
 
-Aibar, Eduardo, and Wiebe E. Bijker. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Constructing a City: The Cerdà Plan for the Extension of Barcelona." (PDF)](http://www.uoc.edu/webs/eaibar/_resources/documents/Aibar-Bijker.pdf) _Science Technology Human Values_ 22, no. 1 (1997): 3–30.
+Aibar, Eduardo, and Wiebe E. Bijker. ["Constructing a City: The Cerdà Plan for the Extension of Barcelona." (PDF)](http://www.uoc.edu/webs/eaibar/_resources/documents/Aibar-Bijker.pdf) _Science Technology Human Values_ 22, no. 1 (1997): 3–30.
 
 
 {{< tdclose >}}
@@ -504,7 +509,7 @@ Conzen, M. "The Morphology of Nineteenth Century Cities in the United States." I
 
 Duany, A., E. Plater-Zyberk, and J. Speck. _Suburban Nation: the Rise of Sprawl and the Decline of the American Dream_. North Point Press, pp. 3–20. ISBN: 9780865477506.
 
-Gordon, P., and H. Richardson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Prove It: the Costs and Benefits or Sprawl." (PDF)](https://www.brookings.edu/articles/prove-it-the-costs-and-benefits-of-sprawl/) _The Brookings Review_ 16, no. 4 (1998): 23–5.
+Gordon, P., and H. Richardson. ["Prove It: the Costs and Benefits or Sprawl." (PDF)](https://www.brookings.edu/articles/prove-it-the-costs-and-benefits-of-sprawl/) _The Brookings Review_ 16, no. 4 (1998): 23–5.
 
 
 {{< tdclose >}}

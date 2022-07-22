@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  works for a lecture on London during the advent of modernism.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 8: Transformations I: London'
 uid: b183d741-25a1-87e9-189d-92b53c843809
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-7-the-early-cities-of-capitalism) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-9-transformations-ii-paris)
+{{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "« Previous" %}} | {{% resource_link a2b6f7da-38d3-423c-22eb-a89d63a1b339 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -24,7 +30,7 @@ A final aspect of the restructuring of London involves the building of many laye
 Handout
 -------
 
-[Handout for Lecture 8 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout8)
+{{% resource_link 20a94a8c-39c9-a42f-e26e-2f17a7857a9b "Handout for Lecture 8 (PDF)" %}}
 
 *   Page 1: Subdivision and development of Bedford Estate, London from 1761–1845
 *   Page 2: Matrix of textural orders comparing West London to other cities
@@ -34,4 +40,4 @@ Examples, Precedents, and Works
 
 Thames Street, city grid of Regent Street, map of city, Grosvenor Square, Old Church, Booth's map of pubs, the railway system, Euston Road, Charing Cross, Birmingham Railway, St. Pancras Station, Victoria Station, the Crystal Palace (London, England); Victoria Station (Mumbai, India)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-7-the-early-cities-of-capitalism) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-9-transformations-ii-paris)
+{{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "« Previous" %}} | {{% resource_link a2b6f7da-38d3-423c-22eb-a89d63a1b339 "Next »" %}}

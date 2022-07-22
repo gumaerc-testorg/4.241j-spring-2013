@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidance on using the term paper to more deeply
+  research aspects of a topic that has been discussed in the class lectures, and examples
+  of past student papers.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 79ec7efc-8164-a162-2eb8-3938d98390c7
 title: More Deeply Researched Aspects of a Topic
 uid: 10d5014a-51a8-5c2e-e061-9feaedc72710

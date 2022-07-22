@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts and works for a lecture on the premises for modern and post-modern urbanism.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 19: Form Models I: Modern and Post-modern Urbanism'
 uid: 78e73b78-bef2-b990-0b57-b2b1200bd943
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-18-spatial-social-structure-iii-colony-post-colony) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-20-form-models-ii-open-endedness-and-prophecy)
+{{% resource_link fa2266e4-652c-77c0-431d-e6296d6ae7b0 "« Previous" %}} | {{% resource_link ef8a4c55-41c3-f297-dcda-efa3ec9ecffa "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -18,7 +24,7 @@ The reference to post-modern urbanism here is mainly as a contrast to the unders
 Handout
 -------
 
-[Handout for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit4_241js13_handout19)
+{{% resource_link 02cc2a01-7f07-307d-7252-bb9f07a78073 "Handout for Lecture 19 (PDF)" %}}
 
 *   Page 1: Aspects of modern urbanism
 *   Page 2: Annotated text from Oscar Newman's Review of CIAM Activity
@@ -33,4 +39,4 @@ Examples, Precedents, and Works
 
 Graphed distance between buildings (Walter Gropius); Barcelona plan (Ildefons Cerdà); Flachera project (Giovanni Astengo); Milano (Michelangelo Antonioni); Rome, and Genoa (Italy)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-18-spatial-social-structure-iii-colony-post-colony) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-20-form-models-ii-open-endedness-and-prophecy)
+{{% resource_link fa2266e4-652c-77c0-431d-e6296d6ae7b0 "« Previous" %}} | {{% resource_link ef8a4c55-41c3-f297-dcda-efa3ec9ecffa "Next »" %}}

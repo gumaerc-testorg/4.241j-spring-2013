@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a course overview and information on meeting times,
+  prerequisites, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 58d5c81b-6191-fec3-9424-957ed96575b4
 ---
@@ -21,12 +25,12 @@ Students are given required and background reading material for each session as 
 Prerequisites
 -------------
 
-[_11.001J / 4.250J Introduction to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/) (for undergraduates), or  
+[_11.001J / 4.250J Introduction to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006) (for undergraduates), or  
 _11.301J / 4.252J Introduction to Urban Design and Development_ (for graduates)
 
 Grading
 -------
 
-Students enrolled in the course, whether for 9 credits or 12 credits, are required to submit a term paper at the end of the semester. Details, requirements, and resources are provided under [Term Paper]({{< baseurl >}}/pages/term-paper).
+Students enrolled in the course, whether for 9 credits or 12 credits, are required to submit a term paper at the end of the semester. Details, requirements, and resources are provided under {{% resource_link 79ec7efc-8164-a162-2eb8-3938d98390c7 "Term Paper" %}}.
 
 Grades are given based on this paper assignment as well as attendance and participation during lecture. Because of the nature of the material presented, students are encouraged to question the theories presented to them and also provide thoughtful insights and analysis through their class participation.

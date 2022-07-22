@@ -1,12 +1,20 @@
 ---
 content_type: page
+description: This section provides a lecture summary, a handout, and a list of referenced
+  texts for a lecture on the history of the American city, suburbia, public transportation,
+  the role of technology and government, the American downtown, and the impact of
+  mobility and density.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 23: Cases II: Suburbs and Periphery'
 uid: 097c6853-d19d-7a28-c378-c4bc52c3f804
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-22-cases-i-public-and-private-domains) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-24-cases-iii-post-urbanism-and-resource-conservation)
+{{% resource_link 5a307160-dfd9-e921-5166-56dc50d356f9 "« Previous" %}} | {{% resource_link ab60759e-1b51-f29f-6486-1de4e727e69c "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -20,7 +28,7 @@ Recently the large American low-density metropolis has been subject to growing c
 Handout
 -------
 
-[Handout for Lecture 23 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit4_241js13_handout23)
+{{% resource_link e71eb981-54f0-350f-1630-a3a3f3ce034e "Handout for Lecture 23 (PDF - 1.5MB)" %}}
 
 *   Pages 1–5: Transcript from Jerusalem Seminar, "The Public Building: Form and Influence," November 1992.
 
@@ -31,4 +39,4 @@ Sennett, Richard. "The Space of Democracy." _Harvard Design Magazine,_ Summer 19
 
 Beinart, Julian. "Keeping Post Office Square as a Public Trust." _The Boston Globe_, June 6, 1984.
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-22-cases-i-public-and-private-domains) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-24-cases-iii-post-urbanism-and-resource-conservation)
+{{% resource_link 5a307160-dfd9-e921-5166-56dc50d356f9 "« Previous" %}} | {{% resource_link ab60759e-1b51-f29f-6486-1de4e727e69c "Next »" %}}

@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This section provides a lecture summary, handouts, and a list of referenced
+  texts for a lecture on defining the image of the city with identity, structure,
+  and meaning.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 6: Dimensions, Patterns, Agreements, Structure, and Syntax'
 uid: 611f0268-002f-d76a-b553-e5726f87b2cb
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-5-descriptive-and-functional-theory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-7-the-early-cities-of-capitalism)
+{{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "« Previous" %}} | {{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -22,7 +29,7 @@ Perhaps the most widely applied of the propositions that deal with the morpholog
 Handout
 -------
 
-[Handout for Lecture 6 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit4_241js13_handout6)
+{{% resource_link a597562f-de83-7a65-3dfd-13821a8e9929 "Handout for Lecture 6 (PDF - 1.7MB)" %}}
 
 *   Page 1: List of referenced literature for this lecture
 *   Pages 2–3: Notes on adaptability (Kevin Lynch)
@@ -34,12 +41,12 @@ Referenced Texts
 
 Alexander, Christopher. _A New Theory of Urban Design_ Oxford University Press, 1987, pp. 14–5. ISBN: 9780195037531. \[Preview with [Google Books](http://books.google.com/books?id=M-TwV7wz3KIC&pg=PA14=onepage)\]
 
-Fig.7 from Habraken, N. John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
+Fig.7 from Habraken, N. John. ["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
 
 Martin, Leslie. _Urban Space and Structures (Cambridge Urban and Architectural Studies)_. Cambridge University Press, 1975, pp. 20–1. ISBN: 9780521099349.
 
 Fig. 1, 4, 5, and 7 from "[From Research to Design: Re-engineering the Space of Trafalgar Square](http://gisweb.massey.ac.nz/topic/Spatial_Syntax/wbrefs/Space Syntax Laboratory - from research to design.htm)."
 
-Martin, Leslie. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
+Martin, Leslie. ["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-5-descriptive-and-functional-theory) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-7-the-early-cities-of-capitalism)
+{{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "« Previous" %}} | {{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "Next »" %}}

@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This section provides a lecture summary and a list of referenced texts
+  and works for a lecture on Team X, temporality and flexibility in cities, and the
+  impact of geometry.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 20: Form Models II: Open-endedness and Prophecy'
 uid: ef8a4c55-41c3-f297-dcda-efa3ec9ecffa
 ---
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-19-form-models-i-modern-and-post-modern-urbanism) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-21-form-models-iii-and-iv-rationality-and-memory)
+{{% resource_link 78e73b78-bef2-b990-0b57-b2b1200bd943 "« Previous" %}} | {{% resource_link bc71084e-6d4e-27fe-5f23-66512793d080 "Next »" %}}
 
 Lecture Summary
 ---------------
@@ -27,4 +34,4 @@ Examples, Precedents, and Works
 
 Torre Velasca (BBPR); Golden Land Competition (Smithson); Park Hill Sheffield; University of Toulouse II – Le Mirail, Champs de Mars, and Champs-Élysées, and Eiffel Tower (France); Chandigarh (Le Corbusier); National Parliament House in Dhaka (Louis Kahn); University of Bochum; University of Zurich Competition; University of Pavia (Giancarlo de Carlo); University of Loughborough; Olympic Games in Athens (1896), Paris (1900); St. Louis (1904), Los Angeles (1932), Berlin (1936), Seoul (1988), Los Angeles (1984); Nuremberg Stadium (Albert Speer); Cape Town (South Africa)
 
-[« Previous]({{< baseurl >}}/pages/lecture-notes/lec-19-form-models-i-modern-and-post-modern-urbanism) | [Next »]({{< baseurl >}}/pages/lecture-notes/lec-21-form-models-iii-and-iv-rationality-and-memory)
+{{% resource_link 78e73b78-bef2-b990-0b57-b2b1200bd943 "« Previous" %}} | {{% resource_link bc71084e-6d4e-27fe-5f23-66512793d080 "Next »" %}}

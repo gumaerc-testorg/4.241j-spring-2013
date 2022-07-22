@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides guidance for those who choose to write a term paper
+  on form issues of today. Examples of past student papers are also provided.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Term Paper
+parent_type: CourseSection
 parent_uid: 79ec7efc-8164-a162-2eb8-3938d98390c7
 title: Form Issues of Today
 uid: 10c2318f-c81b-a38a-1128-896d7be2beec
