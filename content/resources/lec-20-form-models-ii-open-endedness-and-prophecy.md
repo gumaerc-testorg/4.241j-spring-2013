@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture picks up with Team 10, temporality and flexibility in cities, and the impact of geometry. The anticlassical idea of public organization by an underlying DNA, and large-scale temporary environments are presented alongside case studies.
 
 **Instructor:** Julian Beinart
-
-
 

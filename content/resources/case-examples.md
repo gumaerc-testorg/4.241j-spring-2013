@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: A series of diagrams comparing city form typologies.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: The "Theory" in Theory of City Form
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: case-examples.jpg
 uid: 924b970d-a90f-859e-dfd1-94caddd0b1e6
 ---
 A diagram from Prof. Beinart's lecture notes comparing the London Square, Paris Boulevard, Vienna Gruppenhaus / HOF, Barcelona Block, Sunnyside Gardens "superblock," and German "siedlung."
-

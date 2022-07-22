@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on the history of the American city, suburbia, public transportation, the role of technology and government, the American downtown, and the impact of mobility and density.
 
 **Instructor:** Julian Beinart
-
-
 

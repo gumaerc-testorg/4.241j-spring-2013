@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on urbanism in the Global South. Discussion targets how to deal with population growth, the residue of colonialism, the tradition of tribalism, and urban poverty on a mass scale. Chandigarh and Diadema are taken as case studies.
 
 **Instructor:** Julian Beinart
-
-
 

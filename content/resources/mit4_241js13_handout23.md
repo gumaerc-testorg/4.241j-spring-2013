@@ -5,6 +5,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/e71eb98154f0350f1630a3a3f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lec 23 Handout: Cases II: Suburbs and Periphery'
 uid: e71eb981-54f0-350f-1630-a3a3f3ce034e
 ---
 This resource contains information regarding cases II: suburbs and periphery.
-

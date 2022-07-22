@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture discusses changes associated with the Industrial Revolution, with a focus on London. Topics include the migration from rural to urban, the Inclosure Acts, the idea that land is available to the population, and rationalized labor.
 
 **Instructor:** Julian Beinart
-
-
 

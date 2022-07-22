@@ -6,6 +6,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/d14bfe6ea2dd45e12486633288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lec 3 Handout: Normative Theory II: The City as Machine'
 uid: d14bfe6e-a2dd-45e1-2486-633288e6f52e
 ---
 This resource contains information regarding normative theory II: the city as machine.
-

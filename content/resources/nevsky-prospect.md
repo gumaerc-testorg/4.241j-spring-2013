@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of the Nevsky Prospect with annotations.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Key Aspects of the Course
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: nevsky-prospect.jpg
 uid: 0f1b7af7-7bb6-5184-331c-87e1763ff5fd
 ---
 Prof. Beinart uses an annotated plan of the Nevsky Prospect in St. Petersburg to highlight important features of the city to students.
-

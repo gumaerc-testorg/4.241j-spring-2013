@@ -6,6 +6,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/a597562fde837a653dfd13821a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lec 6 Handout: Dimensions, Patterns, Agreements, Structure, and Syntax'
 uid: a597562f-de83-7a65-3dfd-13821a8e9929
 ---
 This resource contains information regarding dimensions, patterns, agreements, structure, and syntax.
-

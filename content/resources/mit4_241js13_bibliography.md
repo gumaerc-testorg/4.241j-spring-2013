@@ -5,6 +5,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/a40728abbd553ff0b3855f6a06
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: General Bibliography
 uid: a40728ab-bd55-3ff0-b385-5f6a06dd600f
 ---
 This resource contains information regarding general bibliography.
-

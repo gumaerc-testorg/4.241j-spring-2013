@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers the motivations for the course, an introduction of urban history, and the role of cities throughout human history. The professor gives a brief explanation of each topic that is to be covered in the course.
 
 **Instructor:** Julian Beinart
-
-
 

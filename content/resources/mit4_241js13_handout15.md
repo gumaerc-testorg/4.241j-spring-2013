@@ -5,6 +5,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/95e7260e012313dbbdbf0f20b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lec 15 Handout: City Form and Process'
 uid: 95e7260e-0123-13db-bdbf-0f20b9c80ebb
 ---
 This resource contains information regarding city form and process.
-

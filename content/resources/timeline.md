@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Timeline with annotations of works, names, and dates.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Adoption and Adaptation
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: timeline.jpg
 uid: 1c330e94-b557-c971-bfa2-0dea197e1a1f
 ---
 A timeline of Utopian models proposed in the nineteenth and twentieth centuries that serve as the basis of discussion in several class lectures.
-

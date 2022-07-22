@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Description: This lecture identifies the premises for modern and post-modern urbanism. Science, the breaking of life into categories, the modern spirit, universal identity, the corporate client, and the self-image of the architect are presented as major influences.
 
 Instructor: Julian Beinart
-
-
 

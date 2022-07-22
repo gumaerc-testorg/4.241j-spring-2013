@@ -4,6 +4,7 @@ description: ''
 file: /courses/4-241j-theory-of-city-form-spring-2013/4b6492b0a8215a09a3453b898519bb93_k2_wuThLG6o.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

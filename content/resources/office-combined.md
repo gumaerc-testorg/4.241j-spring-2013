@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Books lining the hallway and bookshelves on an office.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Key Aspects of the Course
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: office-combined.jpg
 uid: 6a22d9a4-46ed-087e-e108-502f739a5322
 ---
 The amount of supporting literature in Prof. Beinart's office is testament to his belief in continuous learning through reading. (Image courtesy of MIT OpenCourseWare.)
-

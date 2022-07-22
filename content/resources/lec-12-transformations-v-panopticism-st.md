@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture explores the enlightment of people as individuals, separation of work and home, and the organization of complex space. Panopticism, implied meanings in façade, spatial comparison, and transformability are illustrated through case studies.
 
 **Instructor:** Julian Beinart
-
-
 

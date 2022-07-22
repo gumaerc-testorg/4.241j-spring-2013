@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture continues the discussion on urbanism and threats to urbanism. Change in climate, social equity, the move away from the central city, the effect of urban development on the environment, and risks to the planet are key points of discussion.
 
 **Instructor:** Julian Beinart
-
-
 

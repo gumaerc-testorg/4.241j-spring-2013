@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture explores the implications of public and private space, including its history, the sharing of use, public space as a democracy, and ownership of built environments.
 
 **Instructor:** Julian Beinart
-
-
 

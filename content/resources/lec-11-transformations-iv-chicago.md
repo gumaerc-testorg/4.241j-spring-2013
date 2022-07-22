@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture introduces Chicago and the primacy of the individual. Among the city's features discussed are the Chicago World's Fair, Burgess model of concentric universe, the city as economic engine, and private sector versus communal environment.
 
 **Instructor:** Julian Beinart
-
-
 

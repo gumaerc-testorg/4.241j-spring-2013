@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on the construction of new towns in the UK and Russia. Technology, population, land economy and form, population, the effect of socialization, and the authority of the state serve as measures for comparison.
 
 **Instructor:** Julian Beinart
-
-
 

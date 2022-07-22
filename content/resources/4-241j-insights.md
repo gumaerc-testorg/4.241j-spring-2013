@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Professor sitting in his office.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: CourseSection

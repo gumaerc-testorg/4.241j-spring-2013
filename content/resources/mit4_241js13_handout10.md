@@ -6,6 +6,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/1fa43e9f921b9d869ceb4ca9f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lec 10 Handout: Transformations III: Vienna and Barcelona'
 uid: 1fa43e9f-921b-9d86-9ceb-4ca9f308871c
 ---
 This resource contains information regarding transformations III: Vienna and Barcelona.
-

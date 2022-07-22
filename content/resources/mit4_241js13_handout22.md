@@ -6,6 +6,7 @@ file: /courses/4-241j-theory-of-city-form-spring-2013/cc3961b7b598a7c3819e502470
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lec 22 Handout: Form Models III and IV: Rationality and Memory'
 uid: cc3961b7-b598-a7c3-819e-502470143e1f
 ---
 This resource contains information regarding form models III and IV: rationality and memory.
-
