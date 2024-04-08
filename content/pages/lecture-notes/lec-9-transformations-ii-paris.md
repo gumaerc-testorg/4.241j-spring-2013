@@ -37,7 +37,7 @@ Referenced Texts
 
 Fig. 4 from Debord, Guy. "The Naked City." 1957.
 
-"[Ten Scenarios for 'Grand Paris' Metropolis Now Up for Public Debate](http://www.bustler.net/index.php/article/ten_scenarios_for_grand_paris_metropolis_now_up_for_public_debate/)." _Bustler_, March 13, 2009.
+"{{% resource_link "e3eb6ec4-3281-437a-a826-e7025513ee07" "Ten Scenarios for 'Grand Paris' Metropolis Now Up for Public Debate" %}}." _Bustler_, March 13, 2009.
 
 Examples, Precedents, and Works
 -------------------------------

@@ -33,7 +33,7 @@ Handout
 Referenced Texts
 ----------------
 
-Frontado, G. "[La Leyes de Indias: Observations of its Influence on the Structure of Physical Space in the Latin American Cities](http://dspace.mit.edu/handle/1721.1/16063)." MIT Thesis, January 1980, pp. 14–59.
+Frontado, G. "{{% resource_link "1ce0711e-7af8-4992-8995-d510c306389e" "La Leyes de Indias: Observations of its Influence on the Structure of Physical Space in the Latin American Cities" %}}." MIT Thesis, January 1980, pp. 14–59.
 
 Examples, Precedents, and Works
 -------------------------------

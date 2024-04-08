@@ -28,7 +28,7 @@ Chicago is a case study of a city first dedicating itself to assembling capital 
 
 ## Referenced Texts
 
-Willis, Garry. "[Chicago Underground](http://www.nybooks.com/articles/archives/1993/oct/21/chicago-underground/)," _The New York Review of Books_, October 21, 1993.
+Willis, Garry. "{{% resource_link "907187a5-462b-45e9-99ef-d98d5bc80215" "Chicago Underground" %}}," _The New York Review of Books_, October 21, 1993.
 
 Appelbaum, Stanley. "Rand, McNally & Co.'s New Indexed Miniature Guide Map of the World's Columbian Exposition at Chicago, 1893." _The Chicago World's Fair of 1893: A Photographic Record_. Dover Publications, 1980. ISBN: 9780486239903.
 

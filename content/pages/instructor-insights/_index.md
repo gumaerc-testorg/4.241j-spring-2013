@@ -12,7 +12,7 @@ uid: 116b0027-00e4-f3b6-53e2-ff1d7f6daed8
 ---
 ## Course Overview
 
-This page focuses on the course _4.241J/11.330J_ _Theory of City Form_ as it was taught by Prof. Julian Beinart in Spring 2013.
+This page focuses on the course *4.241J/11.330J* *Theory of City Form* as it was taught by Prof. Julian Beinart in Spring 2013.
 
 This course that has been offered every year at MIT since 1956. First developed and taught by Prof. Kevin Lynch, the course was then adopted by Prof. Beinart, who has taught the course for the past 36 years. This advanced-level course is intended to present various theories of city form, along with appropriate case studies, in order to build students’ understanding of urbanism and architecture and to enable them to apply such considerations in future practices.
 
@@ -32,33 +32,33 @@ Students are expected to continue their work in architecture and urban studies. 
 
 ## Instructor Interview
 
-{{< resource 14fce5ba-6c4a-59ca-3dc8-b1974150a004 >}}
+{{< resource uuid="14fce5ba-6c4a-59ca-3dc8-b1974150a004" >}}
 
 Prof. Beinart in his office, surrounded by materials from both teaching and practice. (Image courtesy of MIT OpenCourseWare.)
 
-In the following pages, Prof. Beinart describes various aspects of how he teaches _4.241J/11.330J_ _Theory of City Form_.
+In the following pages, Prof. Beinart describes various aspects of how he teaches *4.241J/11.330J* *Theory of City Form*.
 
-- {{% resource_link 7b5e342d-33e4-a67f-ad4c-1d265223c99b "Adoption and Adaptation" %}}
-- {{% resource_link a735424a-98f6-c7c8-ff74-9476dacde695 "The “Theory” in Theory of City Form" %}}
-- {{% resource_link 2b26cddf-bfc9-b0b7-7eed-b81aa4a46280 "Key Aspects of the Course" %}}
-- {{% resource_link 5b3e38f7-fda4-36a9-de0b-29fe8f30045e "The Influence of the Present" %}}
+- {{% resource_link "7b5e342d-33e4-a67f-ad4c-1d265223c99b" "Adoption and Adaptation" %}}
+- {{% resource_link "a735424a-98f6-c7c8-ff74-9476dacde695" "The “Theory” in Theory of City Form" %}}
+- {{% resource_link "2b26cddf-bfc9-b0b7-7eed-b81aa4a46280" "Key Aspects of the Course" %}}
+- {{% resource_link "5b3e38f7-fda4-36a9-de0b-29fe8f30045e" "The Influence of the Present" %}}
 
 Below are links to videos produced by Prof. Lynch as part of his studies into the theory of city form and of human perceptions of the city.
 
-- ["Full Day" (1958)](http://teachingexcellence.mit.edu/from-the-vault/full-day-1958-kevin-lynch): a time-lapse film showing 24 hours as viewed from the Memorial Drive side of the MIT campus
-- ["View from the Road" (1965)](http://teachingexcellence.mit.edu/from-the-vault/view-from-the-road-series-1965-kevin-lynch): a high-speed film taken from a drive around the Cambridge-Boston area
+- {{% resource_link "c87fea16-1638-4e1f-8c72-abce4ba4ded4" "\"Full Day\" (1958)" %}}: a time-lapse film showing 24 hours as viewed from the Memorial Drive side of the MIT campus
+- {{% resource_link "f7c46b23-99ed-42e9-9bcf-b614959e42e0" "\"View from the Road\" (1965)" %}}: a high-speed film taken from a drive around the Cambridge-Boston area
 
 ## Curriculum Information
 
 ### Prerequisites
 
-- [_11.001J/4.250J_ _Intro to Urban Design and Development_](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006) (undergraduate) or
-- _11.301J /4.252J Intro to Urban Design and Development_ (graduate)
+- [*11.001J/4.250J* *Intro to Urban Design and Development*](/courses/11-001j-introduction-to-urban-design-and-development-spring-2006) (undergraduate) or
+- *11.301J /4.252J Intro to Urban Design and Development* (graduate)
 
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- Required for [SMArchS](http://architecture.mit.edu/computation/degree/smarchs)
+- Required for {{% resource_link "34b9a848-138d-465f-8415-348464496696" "SMArchS" %}}
 
 ### Offered
 
