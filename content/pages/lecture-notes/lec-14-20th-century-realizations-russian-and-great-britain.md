@@ -33,7 +33,7 @@ Handout
 Referenced Texts
 ----------------
 
-Hamilton, Alan, and Sophie Kirkham. "[Too Ugly to Live: The Award-winning Town Begging to be put out of its Misery on TV](http://www.thetimes.co.uk/tto/news/uk/article1932490.ece)," _The Times of London_, February 21, 2005.
+Hamilton, Alan, and Sophie Kirkham. "{{% resource_link "f0e9487b-b06b-49de-ae15-b111f804eaf6" "Too Ugly to Live: The Award-winning Town Begging to be put out of its Misery on TV" %}}," _The Times of London_, February 21, 2005.
 
 Examples, Precedents, and Works
 -------------------------------

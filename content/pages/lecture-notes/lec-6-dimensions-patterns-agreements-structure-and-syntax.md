@@ -3,6 +3,7 @@ content_type: page
 description: This section provides a lecture summary, handouts, and a list of referenced
   texts for a lecture on defining the image of the city with identity, structure,
   and meaning.
+draft: false
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -12,11 +13,9 @@ parent_uid: a3d91747-fe05-37ef-d9d2-3e93312c4b95
 title: 'Lec 6: Dimensions, Patterns, Agreements, Structure, and Syntax'
 uid: 611f0268-002f-d76a-b553-e5726f87b2cb
 ---
+{{% resource_link "4474e7ec-cbf7-8e3b-eee9-8d6485842852" "« Previous" %}} | {{% resource_link "4dfd8d19-7039-42df-cff2-cb6cc251c7ff" "Next »" %}}
 
-{{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "« Previous" %}} | {{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "Next »" %}}
-
-Lecture Summary
----------------
+## Lecture Summary
 
 Four examples of recent theoretical attempts focused on the form of cities are examined in this class. Unlike many of those discussed previously, these have a strong interest in the experience of physical place and have a more complex view of the contemporary city. They see the city as a democratic institution, and require a systematic quality and a high degree of explicitness so that citizens can participate in constructing the city's form.
 
@@ -26,27 +25,25 @@ In Christopher Alexander's work there is also a trajectory of ideas about city f
 
 Perhaps the most widely applied of the propositions that deal with the morphology of cities is the space syntax studies of Bill Hillier. Regarding the city as a network of related spaces, this work focuses on their geometrical interconnectedness and the consequent passage of pedestrians along routes and their presence in public places. Correlating concepts such as connectivity and integration result in measures of high or low intelligibility: high intelligibility correlates the presence of people (and associated behaviors such as the absence of crime) and the spatial pattern. Such principles have in recent times been applied to a variety of practical situations, such as the design of housing and public places.
 
-Handout
--------
+## Handout
 
-{{% resource_link a597562f-de83-7a65-3dfd-13821a8e9929 "Handout for Lecture 6 (PDF - 1.7MB)" %}}
+{{% resource_link "a597562f-de83-7a65-3dfd-13821a8e9929" "Handout for Lecture 6 (PDF - 1.7MB)" %}}
 
-*   Page 1: List of referenced literature for this lecture
-*   Pages 2–3: Notes on adaptability (Kevin Lynch)
-*   Pages 4–5: Handwritten response to _The Economist_ (Kevin Lynch)
-*   Page 6: The Grunsfeld Variations in Back Bay of Boston, Massachusetts, United States (John Habraken)
+- Page 1: List of referenced literature for this lecture
+- Pages 2–3: Notes on adaptability (Kevin Lynch)
+- Pages 4–5: Handwritten response to *The Economist* (Kevin Lynch)
+- Page 6: The Grunsfeld Variations in Back Bay of Boston, Massachusetts, United States (John Habraken)
 
-Referenced Texts
-----------------
+## Referenced Texts
 
-Alexander, Christopher. _A New Theory of Urban Design_ Oxford University Press, 1987, pp. 14–5. ISBN: 9780195037531. \[Preview with [Google Books](http://books.google.com/books?id=M-TwV7wz3KIC&pg=PA14=onepage)\]
+Alexander, Christopher. *A New Theory of Urban Design* Oxford University Press, 1987, pp. 14–5. ISBN: 9780195037531. \[Preview with {{% resource_link "09cf1a24-d5d6-4362-b4b6-83b46ef1d86a" "Google Books" %}}\]
 
-Fig.7 from Habraken, N. John. ["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) _Places_ 4, no. 2 (1987): 3–15.
+Fig.7 from Habraken, N. John. {{% resource_link "5e3cf2e6-8fd9-44ce-822b-d02ff55f7c7f" "\"The Control of Complexity.\" (PDF - 2.4MB)" %}} *Places* 4, no. 2 (1987): 3–15.
 
-Martin, Leslie. _Urban Space and Structures (Cambridge Urban and Architectural Studies)_. Cambridge University Press, 1975, pp. 20–1. ISBN: 9780521099349.
+Martin, Leslie. *Urban Space and Structures (Cambridge Urban and Architectural Studies)*. Cambridge University Press, 1975, pp. 20–1. ISBN: 9780521099349.
 
-Fig. 1, 4, 5, and 7 from "[From Research to Design: Re-engineering the Space of Trafalgar Square](http://gisweb.massey.ac.nz/topic/Spatial_Syntax/wbrefs/Space Syntax Laboratory - from research to design.htm)."
+Fig. 1, 4, 5, and 7 from {{% resource_link "0c70ec71-796a-4eb0-8628-981dfbb14699" "\"From Research to Design: Re-engineering the Space of Trafalgar Square.\"" %}}
 
-Martin, Leslie. ["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In _Urban Space and Structures_. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
+Martin, Leslie. {{% resource_link "8e3425b6-e0df-485d-979f-ba1235d7a960" "\"The Grid As Generator.\" (PDF - 1.2MB)" %}} In *Urban Space and Structures*. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
 
-{{% resource_link 4474e7ec-cbf7-8e3b-eee9-8d6485842852 "« Previous" %}} | {{% resource_link 4dfd8d19-7039-42df-cff2-cb6cc251c7ff "Next »" %}}
+{{% resource_link "4474e7ec-cbf7-8e3b-eee9-8d6485842852" "« Previous" %}} | {{% resource_link "4dfd8d19-7039-42df-cff2-cb6cc251c7ff" "Next »" %}}
