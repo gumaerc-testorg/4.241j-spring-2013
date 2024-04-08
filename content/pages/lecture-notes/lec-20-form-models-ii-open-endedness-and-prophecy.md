@@ -25,7 +25,7 @@ The idea that the city is a conjunction of items of different degrees of permane
 Referenced Texts
 ----------------
 
-Zafeiriadou, Maria. "[In the Quest of an Adaptable Built Form: Studying Transformations in the MIT Campus](http://dspace.mit.edu/handle/1721.1/34985)." MIT Thesis, 2006.
+Zafeiriadou, Maria. "{{% resource_link "4010f9d2-1ae4-4839-abb5-341bbdc897b3" "In the Quest of an Adaptable Built Form: Studying Transformations in the MIT Campus" %}}." MIT Thesis, 2006.
 
 Perez de Arce, Rodrigo. "Urban Transformations." _Architectural Design_ 78, no. 4 (1980).
 
