@@ -36,14 +36,14 @@ Perhaps the most widely applied of the propositions that deal with the morpholog
 
 ## Referenced Texts
 
-Alexander, Christopher. *A New Theory of Urban Design* Oxford University Press, 1987, pp. 14–5. ISBN: 9780195037531. \[Preview with {{% resource_link "09cf1a24-d5d6-4362-b4b6-83b46ef1d86a" "Google Books" %}}\]
+Alexander, Christopher. *A New Theory of Urban Design* Oxford University Press, 1987, pp. 14–5. ISBN: 9780195037531. \[Preview with [Google Books](http://books.google.com/books?id=M-TwV7wz3KIC&pg=PA14=onepage)\]
 
-Fig.7 from Habraken, N. John. {{% resource_link "5e3cf2e6-8fd9-44ce-822b-d02ff55f7c7f" "\"The Control of Complexity.\" (PDF - 2.4MB)" %}} *Places* 4, no. 2 (1987): 3–15.
+Fig.7 from Habraken, N. John. ["The Control of Complexity." (PDF - 2.4MB)](http://www.habraken.com/html/downloads/control_of_complexity.pdf) *Places* 4, no. 2 (1987): 3–15.
 
 Martin, Leslie. *Urban Space and Structures (Cambridge Urban and Architectural Studies)*. Cambridge University Press, 1975, pp. 20–1. ISBN: 9780521099349.
 
-Fig. 1, 4, 5, and 7 from {{% resource_link "0c70ec71-796a-4eb0-8628-981dfbb14699" "\"From Research to Design: Re-engineering the Space of Trafalgar Square.\"" %}}
+Fig. 1, 4, 5, and 7 from ["From Research to Design: Re-engineering the Space of Trafalgar Square."](https://gisweb.massey.ac.nz/topic/Spatial_Syntax/wbrefs/Space%20Syntax%20Laboratory%20-%20from%20research%20to%20design.htm)
 
-Martin, Leslie. {{% resource_link "8e3425b6-e0df-485d-979f-ba1235d7a960" "\"The Grid As Generator.\" (PDF - 1.2MB)" %}} In *Urban Space and Structures*. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
+Martin, Leslie. ["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In *Urban Space and Structures*. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
 
 {{% resource_link "4474e7ec-cbf7-8e3b-eee9-8d6485842852" "« Previous" %}} | {{% resource_link "4dfd8d19-7039-42df-cff2-cb6cc251c7ff" "Next »" %}}

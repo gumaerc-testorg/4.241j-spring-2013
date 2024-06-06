@@ -36,9 +36,9 @@ Handout
 Referenced Texts
 ----------------
 
-Johnson, Kirk. "{{% resource_link "d635d0a4-3249-40f1-8fe9-3cf416b57b88" "Instead of an Autocrat, Rebuilding by Committee" %}}," _The New York Times_, April 14, 2002.
+Johnson, Kirk. "[Instead of an Autocrat, Rebuilding by Committee](http://www.nytimes.com/2002/04/14/nyregion/a-plan-without-a-master-rebuilding-by-committee-robert-moses-would-cringe.html?pagewanted=all&src=pm)," _The New York Times_, April 14, 2002.
 
-Filler, Martin. "{{% resource_link "420ba0e0-d93f-4d68-ac69-1e936ea45433" "Back to Babel" %}}." _The New Republic_, February 3, 2003.
+Filler, Martin. "[Back to Babel](http://www.newrepublic.com/article/back-babel)." _The New Republic_, February 3, 2003.
 
 Examples, Precedents, and Works
 -------------------------------

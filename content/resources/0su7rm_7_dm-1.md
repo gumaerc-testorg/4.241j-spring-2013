@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-241j-theory-of-city-form-spring-2013/314203fa05989588c7e80f7de7e29f6c_0su7rM_7_DM.pdf
+file_size: 84484
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

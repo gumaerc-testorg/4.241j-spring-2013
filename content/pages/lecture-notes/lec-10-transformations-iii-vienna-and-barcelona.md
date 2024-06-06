@@ -35,7 +35,7 @@ Handout
 Referenced Texts
 ----------------
 
-Fig. 1 and 2 from Aibar, Eduardo, and Wiebe E. Bijker. "{{% resource_link "d701c74c-705c-43b2-a443-5efdc28a7f83" "The Cerdà Plan for the Extension of Barcelona" %}}." _Science, Technology, & Human Values_ 22, no. 1 (1997): 3–30.
+Fig. 1 and 2 from Aibar, Eduardo, and Wiebe E. Bijker. "[The Cerdà Plan for the Extension of Barcelona](http://www.jstor.org/stable/689964)." _Science, Technology, & Human Values_ 22, no. 1 (1997): 3–30.
 
 Examples, Precedents, and Works
 -------------------------------
