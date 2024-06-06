@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding spatial & social structure
   I: theory.'
 file: /courses/4-241j-theory-of-city-form-spring-2013/e4cec335600b6e63268974daa2ee8b2d_MIT4_241JS13_handout16.pdf
+file_size: 1007247
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

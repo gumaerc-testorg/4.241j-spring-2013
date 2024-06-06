@@ -28,11 +28,11 @@ For architects who proposed new alternatives for the modern city, the stress was
 
 ## Referenced Texts
 
-Excerpts from Bordosi, Ralph. {{% resource_link "99d13469-11f6-448b-9af3-cf5dff728e03" "_Flight from the City_" %}}. Harper, 1935.
+Excerpts from Bordosi, Ralph. [_Flight from the City_](http://www.panarchy.org/borsodi/flight.html). Harper, 1935.
 
-Smith, Joseph. "{{% resource_link "118a0924-d6aa-473b-9501-48cce67ce8a2" "An Explanation of the Plat of the City of Zion" %}}." June 25, 1833.
+Smith, Joseph. "[An Explanation of the Plat of the City of Zion](http://urbanplanning.library.cornell.edu/DOCS/smith.htm)." June 25, 1833.
 
-More, Thomas. {{% resource_link "e067cb5a-c8d4-4b83-853a-1fae90ca432d" "_Utopia_" %}}. 1516.
+More, Thomas. [_Utopia_](http://www.gutenberg.org/ebooks/2130). 1516.
 
 Owen, Robert. _The Crisis_. 1832.
 

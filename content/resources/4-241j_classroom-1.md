@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-241j-theory-of-city-form-spring-2013/dcddd18421576f5c167a6ab58acaf07a_4-241J_classroom-1.png
+file_size: 92995
 file_type: image/png
 image_metadata:
   caption: ''

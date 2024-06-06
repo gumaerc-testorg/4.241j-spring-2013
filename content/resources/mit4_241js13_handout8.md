@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding transformations I: London.'
 file: /courses/4-241j-theory-of-city-form-spring-2013/20a94a8c39c9a42fe26e2f17a7857a9b_MIT4_241JS13_handout8.pdf
+file_size: 797783
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding 20th century realizations:
   russian.'
 file: /courses/4-241j-theory-of-city-form-spring-2013/0e9966102897f7dad24802b49b3a5fe1_MIT4_241JS13_handout14.pdf
+file_size: 333930
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

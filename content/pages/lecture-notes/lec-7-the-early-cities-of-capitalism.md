@@ -24,11 +24,11 @@ Cotton was the first industry to develop macro-production techniques and "it too
 Referenced Texts
 ----------------
 
-Friedman, Benjamin M. "{{% resource_link "97019706-2409-4900-86fa-897abeaf7301" "Industrial Evolution" %}}," _The New York Times_, December 9, 2007.
+Friedman, Benjamin M. "[Industrial Evolution](http://www.nytimes.com/2007/12/09/books/review/Friedman-t.html)," _The New York Times_, December 9, 2007.
 
 Huberman, Leo. _Man's Worldly Goods—The Story of The Wealth of Nations._ Hesperides Press, 2006, pp. 118–9. ISBN: 9781406798203.
 
-"{{% resource_link "0688e493-c8b0-4fdc-aa33-3e5334277e04" "Enclosure in Britain" %}}." _The Ecologist_ 22, no. 4 (1992): 132.
+"[Enclosure in Britain](https://reader.exacteditions.com/issues/5345/page/14)." _The Ecologist_ 22, no. 4 (1992): 132.
 
 Examples, Precedents, and Works
 -------------------------------
