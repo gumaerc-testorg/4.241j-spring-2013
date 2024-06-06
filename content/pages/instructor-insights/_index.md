@@ -45,8 +45,8 @@ In the following pages, Prof. Beinart describes various aspects of how he teache
 
 Below are links to videos produced by Prof. Lynch as part of his studies into the theory of city form and of human perceptions of the city.
 
-- {{% resource_link "c87fea16-1638-4e1f-8c72-abce4ba4ded4" "\"Full Day\" (1958)" %}}: a time-lapse film showing 24 hours as viewed from the Memorial Drive side of the MIT campus
-- {{% resource_link "f7c46b23-99ed-42e9-9bcf-b614959e42e0" "\"View from the Road\" (1965)" %}}: a high-speed film taken from a drive around the Cambridge-Boston area
+- ["Full Day" (1958)](http://teachingexcellence.mit.edu/from-the-vault/full-day-1958-kevin-lynch): a time-lapse film showing 24 hours as viewed from the Memorial Drive side of the MIT campus
+- ["View from the Road" (1965)](http://teachingexcellence.mit.edu/from-the-vault/view-from-the-road-series-1965-kevin-lynch): a high-speed film taken from a drive around the Cambridge-Boston area
 
 ## Curriculum Information
 
@@ -58,7 +58,7 @@ Below are links to videos produced by Prof. Lynch as part of his studies into th
 ### Requirements Satisfied
 
 - H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-- Required for {{% resource_link "34b9a848-138d-465f-8415-348464496696" "SMArchS" %}}
+- Required for [SMArchS](https://architecture.mit.edu/architecture-urbanism)
 
 ### Offered
 
