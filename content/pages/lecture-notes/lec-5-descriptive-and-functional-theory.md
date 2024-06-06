@@ -44,7 +44,7 @@ Meier, Richard L. _A Communications Theory to Urban Growth._ MIT Press, 1962, fi
 
 Berry, Brian J. L., and Frank E. Horton. _Geographic Perspectives on Urban Systems_. Prentice Hall, 1970, fig. 2–11. ISBN: 9780133513127.
 
-Lehrer, Jonah. "{{% resource_link "1c3ea4bf-56b4-46e6-a9cb-1ab0b20b69b9" "A Physicist Solves the City" %}}," _The New York Times_, December 17, 2010.
+Lehrer, Jonah. "[A Physicist Solves the City](http://www.nytimes.com/2010/12/19/magazine/19Urban_West-t.html)," _The New York Times_, December 17, 2010.
 
 Examples, Precedents, and Works
 -------------------------------

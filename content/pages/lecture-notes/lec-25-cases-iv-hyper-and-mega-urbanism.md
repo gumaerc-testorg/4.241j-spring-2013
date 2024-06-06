@@ -32,9 +32,9 @@ Handout
 Referenced Texts
 ----------------
 
-Brooke, James. "{{% resource_link "24592b41-cf41-43c6-8de7-38bdf4986d63" "The World; Feeding on 19th Century Conditions, Cholera Spreads in Latin America" %}}," _The New York Times_, April 21, 1991.
+Brooke, James. "[The World; Feeding on 19th Century Conditions, Cholera Spreads in Latin America](http://www.nytimes.com/1991/04/21/weekinreview/the-world-feeding-on-19th-century-conditions-cholera-spreads-in-latin-america.html)," _The New York Times_, April 21, 1991.
 
-Hackley, Randall. "{{% resource_link "af04ce42-b83c-480b-80f4-ce5d444695aa" "A lovely madness—Argentina builds new capital in Patagonia" %}}."
+Hackley, Randall. "[A lovely madness—Argentina builds new capital in Patagonia](http://news.google.com/newspapers?nid=2209&dat=19870705&id=mPklAAAAIBAJ&sjid=cvwFAAAAIBAJ&pg=6801%2c930364)."
 
 Peirce, Neal R., and Curtis W. Johnson. "Current and Projected Number of Slum Dwellers, by Region" and Chapter 1 in _Century of the City: No Time to Lose_. Rockefeller Foundation, 2008. ISBN: 9780891840725.
 

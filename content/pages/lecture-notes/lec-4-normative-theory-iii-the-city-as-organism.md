@@ -39,7 +39,7 @@ Thompson, D'Arcy Wentworth. _On Growth and Form._ CreateSpace Independent Publis
 
 Fig. 31, 33, 35–6, and 39 from _Changing Natures in Dynamic Urbanism_.
 
-"{{% resource_link "3e715050-3420-4807-b359-62958b6920ed" "Tennessee Valley Authority v. Hill" %}}." The Snail Darter Case. 437 U. S. 153, 1978.
+"[Tennessee Valley Authority v. Hill](http://www.justice.gov/enrd/Tennessee_Valley_Authority_vs_Hill.html)." The Snail Darter Case. 437 U. S. 153, 1978.
 
 Examples, Precedents, and Works
 -------------------------------

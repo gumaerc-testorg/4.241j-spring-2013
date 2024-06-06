@@ -29,7 +29,7 @@ Handout
 *   Page 1: Timelines for Johannesburg and Western Native Township.
 *   Page 2: Black locations and public / private supply of black housing in Johannesburg, 1885-1970.
 *   Page 3–4: Matrix of changes to housing, services and communal organization in Western Native Township, 1918-1962.
-*   {{% resource_link "b6a97337-7c06-4415-8c5c-ccbf0fc761d1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Page 5: Excerpt from Tzonis, Alexander, and Liane Lefaivre. {{% resource_link "b6a97337-7c06-4415-8c5c-ccbf0fc761d1" "_Classical Architecture: The Poetics of Order_" %}}. MIT Press, 1986. ISBN: 9780262700313. \[Preview with {{% resource_link "3363d3a0-54ff-429c-86b9-8df4503e106c" "Google Books" %}}\]
+*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700313) Page 5: Excerpt from Tzonis, Alexander, and Liane Lefaivre. [_Classical Architecture: The Poetics of Order_](https://mitpress.mit.edu/9780262700313). MIT Press, 1986. ISBN: 9780262700313. \[Preview with [Google Books](http://books.google.com/books?id=D7M_pWDC3wYC&pg=PAfrontcover)\]
 
 Examples, Precedents, and Works
 -------------------------------

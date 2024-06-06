@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding normative theory II: the
   city as machine.'
 file: /courses/4-241j-theory-of-city-form-spring-2013/d14bfe6ea2dd45e12486633288e6f52e_MIT4_241JS13_handout3.pdf
+file_size: 1450741
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
