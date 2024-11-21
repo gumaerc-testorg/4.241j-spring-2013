@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding transformations II: paris.'
-file: /courses/4-241j-theory-of-city-form-spring-2013/caafe0b2f9bba1433390014ef6ce747d_MIT4_241JS13_handout9.pdf
+file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/caafe0b2f9bba1433390014ef6ce747d_MIT4_241JS13_handout9.pdf
 file_size: 2739675
 file_type: application/pdf
 learning_resource_types:

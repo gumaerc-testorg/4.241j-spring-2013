@@ -3,7 +3,7 @@ content_type: resource
 description: A diagram from Prof. Beinart's lecture notes comparing the London Square,
   Paris Boulevard, Vienna Gruppenhaus / HOF, Barcelona Block, Sunnyside Gardens "superblock,"
   and German "siedlung."
-file: /courses/4-241j-theory-of-city-form-spring-2013/924b970da90f859edfd194caddd0b1e6_case-examples.jpg
+file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/924b970da90f859edfd194caddd0b1e6_case-examples.jpg
 file_size: 69731
 file_type: image/jpeg
 image_metadata:
