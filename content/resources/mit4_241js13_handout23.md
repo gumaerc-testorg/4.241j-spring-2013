@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding cases II: suburbs and periphery.'
-file: /courses/4-241j-theory-of-city-form-spring-2013/e71eb98154f0350f1630a3a3f3ce034e_MIT4_241JS13_handout23.pdf
+file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/e71eb98154f0350f1630a3a3f3ce034e_MIT4_241JS13_handout23.pdf
 file_size: 1613962
 file_type: application/pdf
 learning_resource_types:
