@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/18a56804c9655f6a972090cec1b364b7_lKy6EMP3Yhw.vtt
+file: /courses/4-241j-theory-of-city-form-spring-2013/18a56804c9655f6a972090cec1b364b7_lKy6EMP3Yhw.vtt
 file_size: 78780
 file_type: application/x-subrip
 learning_resource_types: []

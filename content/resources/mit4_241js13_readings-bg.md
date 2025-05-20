@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding background readings.
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/5f358f314b963ee7db493663a7b84ffa_MIT4_241JS13_readings-bg.pdf
+file: /courses/4-241j-theory-of-city-form-spring-2013/5f358f314b963ee7db493663a7b84ffa_MIT4_241JS13_readings-bg.pdf
 file_size: 256900
 file_type: application/pdf
 learning_resource_types:

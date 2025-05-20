@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding city form and process.
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/95e7260e012313dbbdbf0f20b9c80ebb_MIT4_241JS13_handout15.pdf
+file: /courses/4-241j-theory-of-city-form-spring-2013/95e7260e012313dbbdbf0f20b9c80ebb_MIT4_241JS13_handout15.pdf
 file_size: 377349
 file_type: application/pdf
 learning_resource_types:
