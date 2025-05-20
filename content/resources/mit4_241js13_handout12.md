@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding transformations V: panopticism,
   St. Petersburg and Berlin.'
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/aed8a2a807ccf0ac4e82640f9c30e16f_MIT4_241JS13_handout12.pdf
+file: /courses/4-241j-theory-of-city-form-spring-2013/aed8a2a807ccf0ac4e82640f9c30e16f_MIT4_241JS13_handout12.pdf
 file_size: 248241
 file_type: application/pdf
 learning_resource_types:

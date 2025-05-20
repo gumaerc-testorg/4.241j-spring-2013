@@ -2,7 +2,7 @@
 content_type: resource
 description: The amount of supporting literature in Prof. Beinart's office is testament
   to his belief in continuous learning through reading. (Image courtesy of MIT OpenCourseWare.)
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/6a22d9a446ed087ee108502f739a5322_office-combined.jpg
+file: /courses/4-241j-theory-of-city-form-spring-2013/6a22d9a446ed087ee108502f739a5322_office-combined.jpg
 file_size: 116609
 file_type: image/jpeg
 image_metadata:
