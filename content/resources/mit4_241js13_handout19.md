@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding form models I: modern and
   post-modern urbanism.'
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/02cc2a017f07307d7252bb9f07a78073_MIT4_241JS13_handout19.pdf
+file: /courses/4-241j-theory-of-city-form-spring-2013/02cc2a017f07307d7252bb9f07a78073_MIT4_241JS13_handout19.pdf
 file_size: 408560
 file_type: application/pdf
 learning_resource_types:

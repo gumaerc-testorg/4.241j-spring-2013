@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding descriptive and functional
   theory.
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/59cb16b0ed0f1b5e6b600527153d4171_MIT4_241JS13_handout5.pdf
+file: /courses/4-241j-theory-of-city-form-spring-2013/59cb16b0ed0f1b5e6b600527153d4171_MIT4_241JS13_handout5.pdf
 file_size: 716707
 file_type: application/pdf
 learning_resource_types:

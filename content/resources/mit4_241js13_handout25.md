@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding cases IV: hyper and mega-urbanism.'
-file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/5cfeff24044bc504f0eb8c110aa934be_MIT4_241JS13_handout25.pdf
+file: /courses/4-241j-theory-of-city-form-spring-2013/5cfeff24044bc504f0eb8c110aa934be_MIT4_241JS13_handout25.pdf
 file_size: 334325
 file_type: application/pdf
 learning_resource_types:
