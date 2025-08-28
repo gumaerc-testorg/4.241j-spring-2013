@@ -2,7 +2,7 @@
 content_type: resource
 description: Prof. Beinart uses an annotated plan of the Nevsky Prospect in St. Petersburg
   to highlight important features of the city to students.
-file: /courses/4-241j-theory-of-city-form-spring-2013/0f1b7af77bb65184331c87e1763ff5fd_nevsky-prospect.jpg
+file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/0f1b7af77bb65184331c87e1763ff5fd_nevsky-prospect.jpg
 file_size: 93508
 file_type: image/jpeg
 image_metadata:

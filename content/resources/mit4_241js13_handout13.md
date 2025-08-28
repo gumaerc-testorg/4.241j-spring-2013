@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding utopianism as social reform
   and Bu.
-file: /courses/4-241j-theory-of-city-form-spring-2013/c104452a015ff4f62031567747806003_MIT4_241JS13_handout13.pdf
+file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/c104452a015ff4f62031567747806003_MIT4_241JS13_handout13.pdf
 file_size: 346029
 file_type: application/pdf
 learning_resource_types:

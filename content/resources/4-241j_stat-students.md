@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-241j-theory-of-city-form-spring-2013/53a0e305d57e198e5c773f5f78397da3_4-241J_stat-students.png
+file: /ol-ocw-studio-app/courses/4-241j-theory-of-city-form-spring-2013/53a0e305d57e198e5c773f5f78397da3_4-241J_stat-students.png
 file_size: 2911
 file_type: image/png
 image_metadata:
