@@ -42,7 +42,7 @@ Fig.7 from Habraken, N. John. ["The Control of Complexity." (PDF - 2.4MB)](http:
 
 Martin, Leslie. *Urban Space and Structures (Cambridge Urban and Architectural Studies)*. Cambridge University Press, 1975, pp. 20–1. ISBN: 9780521099349.
 
-Fig. 1, 4, 5, and 7 from ["From Research to Design: Re-engineering the Space of Trafalgar Square."](https://gisweb.massey.ac.nz/topic/Spatial_Syntax/wbrefs/Space%20Syntax%20Laboratory%20-%20from%20research%20to%20design.htm)
+Fig. 1, 4, 5, and 7 from ["From Research to Design: Re-engineering the Space of Trafalgar Square."](https://www.researchgate.net/publication/333601450_From_Research_to_Design_Re-engineering_the_Space_of_Trafalgar_Square)
 
 Martin, Leslie. ["The Grid As Generator." (PDF - 1.2MB)](http://lsproject2009.files.wordpress.com/2009/04/the-grid-as-generator-_-urban-design-reade-feb-2007.pdf) In *Urban Space and Structures*. Edited by Lionel March and Leslie Martin. Cambridge University Press, 1975, pp. 6–27. ISBN: 9780521099349.
 
